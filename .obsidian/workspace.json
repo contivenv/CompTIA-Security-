@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5041cfaee14ea948",
+    "type": "split",
+    "children": [
+      {
+        "id": "1befe1fff9fe5dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e0178f01b20e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computação em núvem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08967e4a1fe3e93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12c38a7ade5ea9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039a461f589ae8b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "472c58cc8d36de8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "39da9a86f31c46a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f99067273165fa13",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5c6cfac4c64f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c7cea3e094b3ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Computação em núvem"
+            }
+          },
+          {
+            "id": "e89d36c0aef1e1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Computação em núvem"
+            }
+          },
+          {
+            "id": "322c63b80b0b54fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3fc465edb7477294",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b073f552046d8681",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Computação em núvem"
+            }
+          },
+          {
+            "id": "3499ad2257af4b3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "35e0178f01b20e2c",
+  "lastOpenFiles": [
+    "Dúvidas e revisão de conceitos/Eu não entendi muito bem como é avaliada essa tabela. Pode me explicar de uma maneira mais simples.md",
+    "Dúvidas e revisão de conceitos/Computação em núvem.md",
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.2 Infraestrutura de rede.md",
+    "Bem-vindo.md",
+    "Termos/zonas de segurança.md",
+    "Termos/vulnerabilidade.md",
+    "Termos/vetor de ameaça.md",
+    "Termos/túnel.md",
+    "Termos/tríade CIA.md",
+    "Termos/troca de chaves.md",
+    "Termos/token de autenticação lógico.md",
+    "Termos/token de autenticação física.md",
+    "Termos/tecnologia de autenticação multifator (MFA).md",
+    "Termos/tamanho da chave.md",
+    "Termos/tabela de estado.md",
+    "Termos/superfície de ataque.md",
+    "Termos/subject alternative name (SAN).md",
+    "Termos/software vulnerável.md",
+    "Termos/sistema de gerenciamento de chaves.md",
+    "Termos/sistema de detecção de intrusão (IDS).md",
+    "Termos/single sign-on (SSO).md",
+    "Termos/serviço de diretório.md",
+    "Termos/servidor proxy.md",
+    "Termos/seleção de controles eficazes.md",
+    "Termos/segurança de portas.md",
+    "Termos/segmentação lógica.md",
+    "Termos",
+    "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
+    "Roteiro de estudos/Laboratório de estudos.mdenc",
+    "Roteiro de estudos",
+    "Materiais de Apoio",
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa",
+    "E-book CompTIA Security+/4.0 Implementar o gerenciamento de identidade e acesso",
+    "E-book CompTIA Security+/3.0 Explicando as soluções de criptografia",
+    "E-book CompTIA Security+/2.0 Comparação de Tipos de Ameaças",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança"
+  ]
+}
