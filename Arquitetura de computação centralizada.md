@@ -1,0 +1,1 @@
+Modelo em que todo o processamento e armazenamento de dados é realizado em um único local.

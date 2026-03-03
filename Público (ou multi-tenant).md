@@ -1,0 +1,1 @@
+Nuvem que é implantada para uso compartilhado por vários locatários independentes.

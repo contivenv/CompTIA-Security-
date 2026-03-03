@@ -1,0 +1,1 @@
+Organização que fornece serviços de infraestrutura, aplicativos e/ou armazenamento por meio de uma oferta baseada em assinatura “como serviço” e centrada na nuvem.

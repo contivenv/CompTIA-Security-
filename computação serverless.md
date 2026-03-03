@@ -1,0 +1,1 @@
+Recursos e funcionalidades de um servidor sem a necessidade de executar tarefas de administração do servidor. A computação serverless transfere o gerenciamento de infraestrutura para o provedor de serviços em nuvem, por exemplo, configurando a capacidade de armazenamento de arquivos sem a necessidade de primeiro criar e implantar um servidor de arquivos.

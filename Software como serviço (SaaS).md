@@ -1,0 +1,1 @@
+Um modelo de serviços de nuvem que provisiona serviços de aplicativos totalmente desenvolvidos para os usuários.

@@ -1,0 +1,1 @@
+Um módulo independente, de função única, com operações e interfaces bem definidas e leves. Normalmente, esse estilo de arquitetura permite a entrega rápida, frequente e confiável de aplicações complexas.

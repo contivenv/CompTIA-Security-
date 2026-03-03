@@ -1,0 +1,1 @@
+Arquitetura de computação em que os recursos sob demanda provisionados que possuem atributos de alta disponibilidade, escalabilidade e elasticidade são cobrados dos clientes com base no uso medido.

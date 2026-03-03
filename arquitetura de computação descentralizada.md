@@ -1,0 +1,1 @@
+Modelo em que o processamento e armazenamento de dados são distribuídos em vários locais ou dispositivos.

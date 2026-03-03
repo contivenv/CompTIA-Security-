@@ -1,0 +1,1 @@
+Implantação de nuvem que usa elementos privados e públicos.

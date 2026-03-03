@@ -1,0 +1,1 @@
+Provisionamento de dispositivos de rede virtual, como switches, roteadores e firewalls, via VMs e contêineres.

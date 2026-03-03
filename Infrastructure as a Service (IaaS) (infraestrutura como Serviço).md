@@ -1,0 +1,1 @@
+Modelo de serviços de nuvem que provisiona máquinas virtuais e infraestrutura de rede.

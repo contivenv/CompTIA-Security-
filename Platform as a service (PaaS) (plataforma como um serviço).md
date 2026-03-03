@@ -1,0 +1,1 @@
+Modelo de serviços de nuvem que provisiona serviços de aplicativos e banco de dados como uma plataforma para o desenvolvimento de aplicativos.

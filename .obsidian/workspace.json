@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1.1.4 Controle de acesso"
             }
+          },
+          {
+            "id": "60f71042e2e4acb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,34 +209,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "60f71042e2e4acb7",
   "lastOpenFiles": [
-    "Dúvidas e revisão de conceitos/Computação em núvem.md",
-    "Dúvidas e revisão de conceitos/Eu não entendi muito bem como é avaliada essa tabela. Pode me explicar de uma maneira mais simples.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.2 Infraestrutura de rede.md",
-    "Bem-vindo.md",
-    "Termos/zonas de segurança.md",
-    "Termos/vulnerabilidade.md",
-    "Termos/vetor de ameaça.md",
-    "Termos/túnel.md",
-    "Termos/tríade CIA.md",
-    "Termos/troca de chaves.md",
-    "Termos/token de autenticação lógico.md",
-    "Termos/token de autenticação física.md",
-    "Termos/tecnologia de autenticação multifator (MFA).md",
-    "Termos/tamanho da chave.md",
-    "Termos/tabela de estado.md",
-    "Termos/superfície de ataque.md",
-    "Termos/subject alternative name (SAN).md",
-    "Termos/software vulnerável.md",
-    "Termos/sistema de gerenciamento de chaves.md",
-    "Termos/sistema de detecção de intrusão (IDS).md",
-    "Termos/single sign-on (SSO).md",
-    "Termos/serviço de diretório.md",
-    "Termos/servidor proxy.md",
-    "Termos/seleção de controles eficazes.md",
-    "Termos/segurança de portas.md",
-    "Termos/segmentação lógica.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
+    "conflict-files-obsidian-git.md",
+    "virtualização.md",
+    "virtualização de funções de rede (NFV).md",
+    "virtualização de aplicativos.md",
+    "ualquer coisa como serviço (XaaS).md",
+    "replicação.md",
+    "rede de longa distância definida por software (SD-WAN).md",
+    "qualquer coisa como serviço (XaaS).md",
+    "provedores de serviços em nuvem (CSPs).md",
+    "private cloud (nuvem privada).md",
+    "nuvem privada virtual (VPC).md",
+    "modelos de serviços em nuvem.md",
+    "modelo de implantação em nuvem.md",
+    "matriz de responsabilidades.md",
+    "conteinerização.md",
+    "computação serverless.md",
+    "arquitetura de computação descentralizada.md",
+    "aplicação de rede definida por software (SDN).md",
+    "alta disponibilidade (HA).md",
+    "Software como serviço (SaaS).md",
+    "Secure Access Service Edge (SASE).md",
+    "Público (ou multi-tenant).md",
+    "Privada.md",
+    "Platform as a service (PaaS) (plataforma como um serviço).md",
+    "Nuvem híbrida.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura",
     "Termos",
     "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
     "Roteiro de estudos/Laboratório de estudos.mdenc",
@@ -230,7 +246,6 @@
     "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa",
     "E-book CompTIA Security+/4.0 Implementar o gerenciamento de identidade e acesso",
     "E-book CompTIA Security+/3.0 Explicando as soluções de criptografia",
-    "E-book CompTIA Security+/2.0 Comparação de Tipos de Ameaças",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança"
+    "E-book CompTIA Security+/2.0 Comparação de Tipos de Ameaças"
   ]
 }

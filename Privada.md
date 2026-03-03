@@ -1,0 +1,1 @@
+Uma nuvem implantada para uso por uma única entidade.
