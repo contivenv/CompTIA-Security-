@@ -1,0 +1,1 @@
+Cópia automática de dados entre dois sistemas de processamento que ocorre simultaneamente em ambos os sistemas (síncrono) ou de um local primário para um secundário (assíncrono).

@@ -1,0 +1,1 @@
+Nuvem que é implantada para uso compartilhado por locatários em cooperação.

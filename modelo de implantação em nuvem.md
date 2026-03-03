@@ -1,0 +1,1 @@
+Classificação da propriedade e da gestão de uma nuvem como pública, privada, comunitária ou híbrida.

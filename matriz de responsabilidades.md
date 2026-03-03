@@ -1,0 +1,1 @@
+Dispõe que a responsabilidade pela implementação da segurança na transferência de aplicativos, dados e cargas de trabalho para uma plataforma em nuvem é compartilhada entre o cliente e o provedor de serviços em nuvem (CSP).

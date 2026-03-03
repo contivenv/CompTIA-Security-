@@ -1,0 +1,1 @@
+Um modelo de entrega de software em que o código é executado em um servidor e transmitido a um cliente.

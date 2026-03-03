@@ -1,0 +1,1 @@
+Serviços que usam mecanismos definidos por software e políticas de roteamento para implementar túneis virtuais e redes sobrepostas em vários tipos de rede de transporte.

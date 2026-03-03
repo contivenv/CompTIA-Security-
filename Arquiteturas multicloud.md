@@ -1,0 +1,1 @@
+Modelo de implantação em nuvem em que o consumidor da nuvem usa vários serviços de nuvem pública.

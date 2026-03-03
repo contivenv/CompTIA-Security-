@@ -1,0 +1,1 @@
+APIs e hardware/dispositivos virtuais compatíveis que permitem dispositivos e sistemas de rede programáveis.

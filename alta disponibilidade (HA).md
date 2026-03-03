@@ -1,0 +1,1 @@
+Métrica que define a proximidade dos sistemas em relação à meta de fornecer disponibilidade de dados 100% do tempo, mantendo um alto nível de desempenho do sistema.

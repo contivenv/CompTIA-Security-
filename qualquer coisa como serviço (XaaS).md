@@ -1,0 +1,1 @@
+Conceito segundo o qual a maioria dos tipos de requisito de TI pode ser implantada como um modelo de serviço de nuvem.

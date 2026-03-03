@@ -1,0 +1,1 @@
+Um segmento de rede privada disponibilizado para um único consumidor de nuvem em uma nuvem pública.

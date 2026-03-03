@@ -1,0 +1,1 @@
+Classificação da prestação de serviços em nuvem e o limite de responsabilidade do provedor de serviços de nuvem como software, plataforma, infraestrutura e assim por diante.

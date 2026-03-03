@@ -1,0 +1,1 @@
+Uma arquitetura de rede e segurança que fornece acesso seguro a aplicativos e serviços em nuvem, reduzindo a complexidade. Combina serviços de segurança como firewalls, gestão de identidade e acesso e um gateway Web seguro com serviços de rede, como SD-WAN.

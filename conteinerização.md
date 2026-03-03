@@ -1,0 +1,1 @@
+Uma implantação de virtualização do sistema operacional contendo tudo o que é necessário para executar um serviço, aplicativo ou microsserviço.

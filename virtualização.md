@@ -1,0 +1,1 @@
+Um ambiente de computação em que vários sistemas operacionais independentes podem ser instalados em uma única plataforma de hardware e executados simultaneamente.

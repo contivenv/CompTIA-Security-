@@ -1,0 +1,1 @@
+Arquitetura de provisionamento na qual a implantação de recursos é realizada por automação e orquestração com scripts.
