@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
     "conflict-files-obsidian-git.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
     "virtualização.md",
     "virtualização de funções de rede (NFV).md",
     "virtualização de aplicativos.md",
