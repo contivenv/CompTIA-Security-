@@ -1,0 +1,1 @@
+Controles de entrada e saída em um controlador de lógica programável (PLC) para permitir que o usuário configure e monitore o sistema.

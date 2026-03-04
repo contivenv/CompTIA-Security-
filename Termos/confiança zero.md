@@ -1,0 +1,1 @@
+Paradigma de design de segurança em que qualquer solicitação (entre hosts ou entre contêineres) deve ser autenticada antes de ser permitida.

@@ -1,0 +1,1 @@
+Na arquitetura de confiança zero, refere-se às funções que definem a política e determinam as decisões de acesso.

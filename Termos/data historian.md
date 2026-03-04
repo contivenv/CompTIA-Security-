@@ -1,0 +1,1 @@
+Software que agrega e cataloga dados de várias fontes dentro de um sistema de controle industrial.
