@@ -1,0 +1,1 @@
+Dispositivos que podem relatar dados de estado e configuração e ser gerenciados remotamente por redes IP.

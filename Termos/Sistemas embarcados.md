@@ -1,0 +1,1 @@
+Um sistema eletrônico desenvolvido para executar uma função específica, dedicada, como um microcontrolador em um gotejamento médico ou componentes em um sistema de controle que gerencia uma planta de tratamento de água.

@@ -1,0 +1,1 @@
+Tipo de sistema de controle industrial que gerencia dispositivos e equipamentos de múltiplos locais, em larga escala, espalhados por áreas geograficamente grandes a partir de um computador host.

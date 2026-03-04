@@ -1,0 +1,1 @@
+Dispositivos integrados de gerenciamento de rede (sistemas de computador projetados para executar uma função específica e dedicada).

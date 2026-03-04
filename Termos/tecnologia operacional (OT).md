@@ -1,0 +1,1 @@
+Rede de comunicações projetada para implementar um sistema de controle industrial, em vez de uma rede de dados.

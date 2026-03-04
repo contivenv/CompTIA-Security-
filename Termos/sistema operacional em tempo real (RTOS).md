@@ -1,0 +1,1 @@
+Um tipo de sistema operacional que prioriza a execução determinística das operações para garantir uma resposta consistente para tarefas com prazos críticos.
