@@ -1,0 +1,1 @@
+Local de processamento alternativo totalmente configurado que pode ser colocado online de maneira instantânea ou muito rápida após um desastre.

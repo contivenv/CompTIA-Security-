@@ -1,0 +1,1 @@
+Uma prática que envolve estimar os recursos de pessoal, armazenamento, hardware e software de computadores e infraestrutura de conexão que serão necessários durante algum período futuro.

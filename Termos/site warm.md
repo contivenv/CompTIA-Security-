@@ -1,0 +1,1 @@
+Local de processamento alternativo que está inativo ou executa funções não essenciais em condições normais, mas que pode ser rapidamente convertido em um local de operações chave, se necessário.

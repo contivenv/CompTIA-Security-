@@ -1,0 +1,1 @@
+Identifica como os processos de negócios devem lidar tanto com interrupções menores como catastróficas, garantindo que haja redundância de processamento que suporte o fluxo de trabalho.

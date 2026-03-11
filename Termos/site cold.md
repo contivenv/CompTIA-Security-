@@ -1,0 +1,1 @@
+Um local alternativo predeterminado onde uma rede pode ser reconstruída após um desastre.

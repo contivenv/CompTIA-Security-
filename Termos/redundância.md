@@ -1,0 +1,1 @@
+Provisionamento excedente de recursos no âmbito do componente, host e/ou local de modo a que haja um processo automatizado de transição a uma instância operacional em caso de problemas.

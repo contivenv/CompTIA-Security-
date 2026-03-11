@@ -1,0 +1,1 @@
+Mecanismo de resiliência em que os recursos de processamento e armazenamento de dados são replicados entre locais fisicamente distantes.

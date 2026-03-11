@@ -1,0 +1,1 @@
+Uma fonte de alimentação reserva alimentada por diesel ou propano. No caso de falta de energia, uma UPS deve fornecer a energia de transição, pois um gerador de emergência não pode ser ativado com rapidez suficiente.
