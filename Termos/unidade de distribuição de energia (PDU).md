@@ -1,0 +1,1 @@
+Régua de tomadas avançada ou filtro de linha que fornece tensão de saída filtrada. Uma unidade gerenciada permite a administração remota.

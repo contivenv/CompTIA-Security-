@@ -1,0 +1,1 @@
+Estratégia de resiliência de segurança cibernética que aumenta os custos de um ataque provisionando vários tipos de controles, tecnologias, fornecedores e implementações criptográficas.

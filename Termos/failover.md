@@ -1,0 +1,1 @@
+Uma técnica que garante que um componente, dispositivo ou aplicativo redundante possa assumir de forma rápida e eficiente a funcionalidade de um ativo que falhou.

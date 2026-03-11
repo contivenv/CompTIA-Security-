@@ -1,0 +1,1 @@
+Proteção contra falhas do sistema por meio do fornecimento de capacidade extra (redundante). Geralmente, os sistemas tolerantes a falhas identificam e eliminam pontos únicos de falha. A tolerância a falhas também é conhecida como "redundância".

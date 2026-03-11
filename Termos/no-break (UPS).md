@@ -1,0 +1,1 @@
+Dispositivo a bateria que fornece energia CA a dispositivos eletrônicos em caso de falta de energia.

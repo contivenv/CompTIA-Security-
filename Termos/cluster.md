@@ -1,0 +1,1 @@
+Técnica de balanceamento de carga em que um grupo de servidores é configurado como uma unidade e trabalha para fornecer serviços de rede.
