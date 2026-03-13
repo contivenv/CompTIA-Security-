@@ -1,0 +1,1 @@
+Host (honeypot), rede (honeynet), arquivo (honeyfile) ou credencial/token (honeytoken) configurados com o objetivo de atrair invasores para longe de ativos de valor real e/ou de descobrir estratégias de ataque e pontos fracos na configuração de segurança.

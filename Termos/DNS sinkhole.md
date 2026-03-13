@@ -1,0 +1,1 @@
+Registro DNS temporário que redireciona o tráfego mal-intencionado para um endereço IP controlado.

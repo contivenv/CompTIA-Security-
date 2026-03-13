@@ -1,0 +1,1 @@
+Estratégia de engano que retorna dados falsificados em resposta a sondagens de rede.

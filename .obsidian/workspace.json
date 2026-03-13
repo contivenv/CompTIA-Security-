@@ -11,10 +11,14 @@
             "id": "35e0178f01b20e2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Analogias/Prédio e inquilino - Serviços XaaS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Prédio e inquilino - Serviços XaaS"
             }
           }
         ]
@@ -190,10 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "Roteiro de estudos/Em qual semana estou ?.md",
+    "Termos/DNS sinkhole.md",
+    "Analogias/Prédio e inquilino - Serviços XaaS.md",
+    "Analogias",
+    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
+    "Termos/Testes de processamento paralelo.md",
+    "Termos/Simulações.md",
+    "Termos/Exercícios tabletop.md",
+    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.7 Tecnologias de engano.md",
+    "Termos/telemetria falsos.md",
+    "Termos/Honeypots.md",
+    "Termos/Tecnologias de deception e disruption.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.6 Diversidade e defesa em profundidade.md",
+    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.1 Rastreamento de ativos.md",
+    "E-book CompTIA Security+/7.0/7.2 Estratégias de redundância.md",
+    "Roteiro de estudos/Em qual semana estou ?.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.5 Redundância de energia.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.4 Clustering.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.3 Alta disponibilidade.md",
@@ -204,21 +221,9 @@
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.4 Proteção de dados avançada.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.3 Backups de dados.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.2 Conceitos de proteção de ativos.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.1 Rastreamento de ativos.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local",
     "E-book CompTIA Security+/7.0/7.2.1 Continuidade das operações.md",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.0 Introdução.md",
-    "Materiais de Apoio/O CSF 1.1 Cinco Funções.md",
-    "Materiais de Apoio/Proxy reverso - caso real do X no Brasil.md",
-    "Materiais de Apoio/O que é criptografia.md",
-    "E-book CompTIA Security+/7.0/7.2.6 Diversidade e defesa em profundidade.md",
-    "Termos/unidade de distribuição de energia (PDU).md",
-    "Termos/diversidade de plataformas.md",
-    "E-book CompTIA Security+/7.0/7.2.5 Redundância de energia.md",
-    "Termos/gerador de energia de reserva.md",
-    "Termos/no-break (UPS).md",
-    "E-book CompTIA Security+/7.0/7.2.4 Clustering.md",
-    "Termos/failover.md",
     "E-book CompTIA Security+/7.0/Sem título",
     "E-book CompTIA Security+/7.0",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/Sem título",
@@ -226,7 +231,6 @@
     "Termos",
     "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
     "Roteiro de estudos/Laboratório de estudos.mdenc",
-    "Roteiro de estudos",
-    "Materiais de Apoio"
+    "Roteiro de estudos"
   ]
 }

@@ -1,0 +1,1 @@
+Execução de sistemas primários e de reserva simultaneamente para validar a funcionalidade e o desempenho dos sistemas de reserva sem interromper as operações normais.

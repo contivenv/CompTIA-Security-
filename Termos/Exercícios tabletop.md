@@ -1,0 +1,1 @@
+Uma discussão de situações de emergência e incidentes de segurança simulados.

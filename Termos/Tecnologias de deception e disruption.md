@@ -1,0 +1,1 @@
+Ferramentas e técnicas de resiliência de segurança cibernética para aumentar o custo de planejamento de um ataque para o autor da ameaça.

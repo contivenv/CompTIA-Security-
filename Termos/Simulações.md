@@ -1,0 +1,1 @@
+Técnica de teste que replica as condições de um cenário de desastre ou incidente de segurança real.
