@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analogias/Prédio e inquilino - Serviços XaaS.md",
+                "file": "Analogias/RTOS em funcionamento comparado a coisas do nosso dia a dia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prédio e inquilino - Serviços XaaS"
+              "title": "RTOS em funcionamento comparado a coisas do nosso dia a dia"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "f99067273165fa13",
@@ -196,8 +197,9 @@
   },
   "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "Termos/DNS sinkhole.md",
     "Analogias/Prédio e inquilino - Serviços XaaS.md",
+    "Analogias/RTOS em funcionamento comparado a coisas do nosso dia a dia.md",
+    "Termos/DNS sinkhole.md",
     "Analogias",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
     "Termos/Testes de processamento paralelo.md",
@@ -223,7 +225,6 @@
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.2 Conceitos de proteção de ativos.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local",
     "E-book CompTIA Security+/7.0/7.2.1 Continuidade das operações.md",
-    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.0 Introdução.md",
     "E-book CompTIA Security+/7.0/Sem título",
     "E-book CompTIA Security+/7.0",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/Sem título",
