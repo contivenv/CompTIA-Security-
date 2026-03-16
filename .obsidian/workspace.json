@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analogias/RTOS em funcionamento comparado a coisas do nosso dia a dia.md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.6 Virtualização de aplicativos e contêineres.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTOS em funcionamento comparado a coisas do nosso dia a dia"
+              "title": "6.1.6 Virtualização de aplicativos e contêineres"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f99067273165fa13",
@@ -195,43 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "Analogias/Prédio e inquilino - Serviços XaaS.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.7 Arquitetura de nuvem.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.5 Conceitos de arquitetura resiliente.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.4 Computação centralizada e descentralizada.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.1 Sistemas integrados.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2 Sistemas integrados e arquitetura de confiança zero.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.11 Considerações sobre segurança na nuvem.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.10 Recursos de arquitetura de nuvemor.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.9 Rede definida por software.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.8 Tecnologias de automação em nuvem.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.5 Conceitos de segurança da confiança zero.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.4 Deperimetrização e zero trust (confiança zero).md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.3 Internet das coisas.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.2 Sistemas de controle industrial.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.2 Modelos de serviço em nuvem.md",
+    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.3 Matriz de responsabilidade.md",
     "Analogias/RTOS em funcionamento comparado a coisas do nosso dia a dia.md",
-    "Termos/DNS sinkhole.md",
-    "Analogias",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
-    "Termos/Testes de processamento paralelo.md",
-    "Termos/Simulações.md",
-    "Termos/Exercícios tabletop.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.7 Tecnologias de engano.md",
-    "Termos/telemetria falsos.md",
-    "Termos/Honeypots.md",
-    "Termos/Tecnologias de deception e disruption.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.6 Diversidade e defesa em profundidade.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.1 Rastreamento de ativos.md",
-    "E-book CompTIA Security+/7.0/7.2 Estratégias de redundância.md",
-    "Roteiro de estudos/Em qual semana estou ?.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.5 Redundância de energia.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.4 Clustering.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.3 Alta disponibilidade.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.2 Riscos ao planejamento de capacidade.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.1 Continuidade das operações.md",
+    "Dúvidas e revisão de conceitos/Firmware de Firewall vs. PC.md",
+    "Dúvidas e revisão de conceitos/O que é SDN ?.md",
+    "Analogias/Prédio e inquilino - Serviços XaaS.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2 Estratégias de redundância.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.5 Destruição segura de dados.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.4 Proteção de dados avançada.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.3 Backups de dados.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.1.2 Conceitos de proteção de ativos.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local",
-    "E-book CompTIA Security+/7.0/7.2.1 Continuidade das operações.md",
-    "E-book CompTIA Security+/7.0/Sem título",
+    "Termos/telemetria falsos.md",
+    "Termos/Testes de processamento paralelo.md",
+    "Termos/Tecnologias de deception e disruption.md",
+    "Termos/Simulações.md",
+    "Termos/Honeypots.md",
+    "Termos/Exercícios tabletop.md",
+    "Analogias",
     "E-book CompTIA Security+/7.0",
-    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/Sem título",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura",
     "Termos",
     "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
     "Roteiro de estudos/Laboratório de estudos.mdenc",
-    "Roteiro de estudos"
+    "Roteiro de estudos",
+    "Materiais de Apoio",
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa",
+    "E-book CompTIA Security+/4.0 Implementar o gerenciamento de identidade e acesso"
   ]
 }
