@@ -1,0 +1,1 @@
+Remove o selo de proteção e quaisquer restrições específicas do sistema operacional para dar aos usuários maior controle sobre o dispositivo.

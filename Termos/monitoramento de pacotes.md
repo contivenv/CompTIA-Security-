@@ -1,0 +1,1 @@
+Técnicas e ferramentas projetadas para mitigar os riscos de vulnerabilidades de aplicativos em códigos de terceiros, como bibliotecas e dependências.

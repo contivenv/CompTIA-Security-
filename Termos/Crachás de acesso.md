@@ -1,0 +1,1 @@
+Mecanismo de autenticação que permite que um usuário apresente um cartão inteligente para operar um sistema de entrada.

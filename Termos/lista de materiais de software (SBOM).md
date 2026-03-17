@@ -1,0 +1,1 @@
+Uma lista de informações detalhadas sobre os componentes e dependências de software usados em um aplicativo ou sistema.

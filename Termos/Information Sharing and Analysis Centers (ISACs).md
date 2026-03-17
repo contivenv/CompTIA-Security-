@@ -1,0 +1,1 @@
+Um grupo sem fins lucrativos criado para compartilhar práticas recomendadas de inteligência e segurança contra ameaças específicas do setor entre seus membros.

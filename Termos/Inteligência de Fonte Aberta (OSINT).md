@@ -1,0 +1,1 @@
+Informações publicamente disponíveis e as ferramentas usadas para agregá-las e pesquisá-las.

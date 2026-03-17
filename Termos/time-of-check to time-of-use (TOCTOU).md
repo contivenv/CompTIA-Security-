@@ -1,0 +1,1 @@
+A vulnerabilidade potencial que ocorre quando há uma alteração entre quando um aplicativo verificou um recurso e quando o aplicativo usou o recurso.

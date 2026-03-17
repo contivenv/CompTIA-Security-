@@ -1,0 +1,1 @@
+Listas de bloqueio de fontes de ameaças conhecidas, como assinaturas de malware, números de endereços IP e domínios DNS.

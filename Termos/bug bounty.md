@@ -1,0 +1,1 @@
+Esquema de recompensa operado por fornecedores de software e serviços Web para relatar vulnerabilidades.

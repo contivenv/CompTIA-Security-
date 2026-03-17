@@ -1,0 +1,1 @@
+Poste vertical robusto instalado para controlar o tráfego rodoviário ou projetado para evitar ataques em que um veículo é utilizado como arma.

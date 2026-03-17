@@ -1,0 +1,1 @@
+Quando os invasores enviam scripts maliciosos para a implementação de JavaScript do lado do cliente de um aplicativo da web para executar seu ataque apenas no cliente.

@@ -1,0 +1,1 @@
+Esquema de identificação de vulnerabilidades desenvolvido pela MITRE e adotado pelo NIST.

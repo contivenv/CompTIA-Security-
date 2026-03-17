@@ -1,0 +1,1 @@
+Componente em um sistema de alarme que identifica a entrada não autorizada por meio da detecção de movimentos ou mudanças térmicas baseada em infravermelho, ultrassom, micro-ondas ou pressão.

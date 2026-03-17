@@ -1,0 +1,1 @@
+O processo de investigação, coleta, análise e disseminação de informações sobre ameaças e fontes de ameaças emergentes.

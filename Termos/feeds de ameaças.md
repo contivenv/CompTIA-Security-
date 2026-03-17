@@ -1,0 +1,1 @@
+Assinaturas e regras de correspondência de padrões fornecidas a plataformas de análise como um feed automatizado.

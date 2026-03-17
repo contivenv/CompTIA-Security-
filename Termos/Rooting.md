@@ -1,0 +1,1 @@
+Obtenção de acesso em nível de superusuário em um dispositivo móvel com sistema operacional Android.

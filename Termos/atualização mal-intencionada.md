@@ -1,0 +1,1 @@
+Vulnerabilidade no repositório de software ou na cadeia de suprimentos que um invasor pode explorar para adicionar código malicioso a um pacote.

@@ -1,0 +1,1 @@
+Grupos colaborativos que trocam dados sobre vulnerabilidades e ameaças emergentes à segurança cibernética.

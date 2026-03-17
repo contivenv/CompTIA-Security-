@@ -1,0 +1,1 @@
+Varredura que usa credenciais, como nomes de usuário e senhas, para se aprofundar durante a verificação de vulnerabilidades, o que produzirá mais informações ao passo que se faz a auditoria da rede.
