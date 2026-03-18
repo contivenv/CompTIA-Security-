@@ -1,0 +1,1 @@
+Métodos para disfarçar a natureza e a finalidade de edifícios ou partes de edifícios.

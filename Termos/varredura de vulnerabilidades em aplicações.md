@@ -1,0 +1,1 @@
+Ferramenta de teste de vulnerabilidade projetada para identificar problemas com o código do aplicativo e a configuração da plataforma, incluindo servidores Web e aplicativos Web.

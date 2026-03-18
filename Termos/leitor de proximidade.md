@@ -1,0 +1,1 @@
+Scanner que lê dados de uma tag RFID ou NFC ao alcance.

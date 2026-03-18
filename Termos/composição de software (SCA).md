@@ -1,0 +1,1 @@
+Ferramentas projetadas para auxiliar na identificação de códigos de terceiros e de código aberto durante o desenvolvimento e implantação de software.

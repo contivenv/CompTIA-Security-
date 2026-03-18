@@ -1,0 +1,1 @@
+Uma varredura que usa menos permissões e muitas vezes só pode encontrar patches ou atualizações ausentes.

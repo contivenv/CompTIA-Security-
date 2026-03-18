@@ -1,0 +1,1 @@
+Em verificação de segurança, designa um caso que é relatado quando não deveria.

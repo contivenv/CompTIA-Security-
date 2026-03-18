@@ -1,0 +1,1 @@
+Um programa que impõe uma verificação de tipo rigorosa durante a compilação e garante que variáveis e dados sejam usados corretamente. Isso evita vulnerabilidades relacionadas à memória e ataques de injeção.

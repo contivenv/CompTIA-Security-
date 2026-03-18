@@ -1,0 +1,1 @@
+Os dispositivos podem ser fisicamente protegidos contra roubo usando abraçadeiras de nylon e cadeados. Alguns sistemas também apresentam placas frontais traváveis, impedindo o acesso ao interruptor de alimentação e a unidades removíveis.

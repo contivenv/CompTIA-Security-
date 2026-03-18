@@ -1,0 +1,1 @@
+Processo de auditoria com amplo escopo, incluindo avaliação da cadeia de suprimentos, configuração, suporte, monitoramento e fatores de segurança cibernética.

@@ -1,0 +1,1 @@
+Padrão de segurança da informação para organizações que processam pagamentos com cartão de crédito ou bancário.

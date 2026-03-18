@@ -1,0 +1,1 @@
+Código de software ou pesquisa de segurança que permanecem como propriedade do desenvolvedor e só podem ser usados sob condições de licença permitidas.

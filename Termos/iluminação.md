@@ -1,0 +1,1 @@
+Mecanismos de segurança física que garantem que um local esteja suficientemente iluminado para que funcionários e hóspedes se sintam seguros e para que os sistemas de vigilância por câmera funcionem corretamente.

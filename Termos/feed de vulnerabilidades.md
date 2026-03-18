@@ -1,0 +1,1 @@
+Lista sincronizável de dados e scripts usados para verificar vulnerabilidades. Também conhecido como plug-ins ou testes de vulnerabilidade de rede (NVTs).

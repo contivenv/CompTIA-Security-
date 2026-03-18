@@ -1,0 +1,1 @@
+Controle de segurança física que usa câmeras e dispositivos de gravação para monitorar visualmente a atividade em uma determinada área.

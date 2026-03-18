@@ -1,0 +1,1 @@
+Hardware ou software configurado com uma lista de vulnerabilidades e explorações conhecidas e que pode verificar sua presença no sistema operacional de um host ou um aplicativo específico.

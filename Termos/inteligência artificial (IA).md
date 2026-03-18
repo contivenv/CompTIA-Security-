@@ -1,0 +1,1 @@
+Ciência de criar máquinas com a capacidade de desenvolver estratégias de análise e solução de problemas sem condução ou intervenção humana significativas.

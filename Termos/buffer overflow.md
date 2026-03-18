@@ -1,0 +1,1 @@
+Ataque no qual os dados ultrapassam o limite do buffer destinatário e começam a corromper a memória adjacente. Isso pode permitir que o invasor trave o sistema ou execute um código arbitrário.

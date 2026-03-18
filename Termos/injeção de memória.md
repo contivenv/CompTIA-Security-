@@ -1,0 +1,1 @@
+Vulnerabilidade que um invasor pode explorar para executar um código malicioso com o mesmo nível de privilégio do processo vulnerável.

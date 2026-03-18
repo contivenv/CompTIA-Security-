@@ -1,0 +1,1 @@
+Vulnerabilidade de software que se dá quando o resultado dos processos de execução depende diretamente da ordem e do tempo de certos eventos, os quais não são executados na ordem e no tempo pretendidos pelo desenvolvedor.

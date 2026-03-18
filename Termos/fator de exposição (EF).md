@@ -1,0 +1,1 @@
+No cálculo de risco, trata-se da porcentagem do valor de um ativo que seria perdida durante um incidente de segurança ou desastre.

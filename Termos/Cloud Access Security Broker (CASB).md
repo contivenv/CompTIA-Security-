@@ -1,0 +1,1 @@
+Software de gestão corporativa projetado para mediar o acesso de usuários a serviços em nuvem em todos os tipos de dispositivos.

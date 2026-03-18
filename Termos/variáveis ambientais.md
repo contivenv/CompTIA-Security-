@@ -1,0 +1,1 @@
+Na avaliação de vulnerabilidades, trata-se de fatores ou métricas resultantes da configuração da rede local ou host que aumentam ou diminuem a probabilidade básica e influem no grau de risco.

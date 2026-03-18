@@ -1,0 +1,1 @@
+Um script mal-intencionado hospedado no site do invasor ou codificado em um link injetado em um site confiável com a intenção de comprometer seus usuários, contornando o modelo de segurança de zonas confiáveis do navegador.

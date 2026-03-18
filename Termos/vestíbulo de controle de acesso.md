@@ -1,0 +1,1 @@
+Um sistema de entrada segura com dois gateways, dos quais apenas um está aberto a qualquer dado momento.

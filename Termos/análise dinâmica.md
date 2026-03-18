@@ -1,0 +1,1 @@
+Teste de software que examina o comportamento do código durante o tempo de execução. Ajuda a identificar possíveis problemas de segurança, desempenho ou outros.

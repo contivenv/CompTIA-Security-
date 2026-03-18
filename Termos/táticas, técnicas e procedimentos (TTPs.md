@@ -1,0 +1,1 @@
+Análise de ataques cibernéticos históricos e ações adversárias.

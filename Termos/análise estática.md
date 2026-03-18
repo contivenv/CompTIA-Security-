@@ -1,0 +1,1 @@
+O processo de revisão do código-fonte não compilado, seja manualmente ou usando ferramentas automatizadas.

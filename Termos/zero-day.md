@@ -1,0 +1,1 @@
+Vulnerabilidade em software ainda não é corrigida pelo desenvolvedor ou um ataque que explora essa vulnerabilidade.

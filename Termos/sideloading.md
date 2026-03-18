@@ -1,0 +1,1 @@
+Instalação de um aplicativo em um dispositivo móvel sem usar a loja de aplicativos.

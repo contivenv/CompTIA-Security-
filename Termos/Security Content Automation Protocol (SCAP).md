@@ -1,0 +1,1 @@
+Uma estrutura NIST que descreve várias práticas aceitas para automatizar a varredura de vulnerabilidades.
