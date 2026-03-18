@@ -11,10 +11,14 @@
             "id": "35e0178f01b20e2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.2 Tipos de vulnerabilidade.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.1.2 Tipos de vulnerabilidade"
             }
           }
         ]
@@ -190,8 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.1 Vulnerabilidades do sistema operacional.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1 Explicar o gerenciamento de vulnerabilidades.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.4 Vulnerabilidades de configuração incorreta.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.3 Vulnerabilidades de dia zero.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.5 Vulnerabilidades de criptografia.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.6 Sideloading, Rooting e Jailbreaking.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.1 Vulnerabilidades de aplicativos.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.2 Escopo da avaliação.md",
     "conflict-files-obsidian-git.md",
     "Termos/zero-day.md",
     "Termos/vigilância por vídeo.md",
@@ -210,14 +222,6 @@
     "Termos/lista de materiais de software (SBOM).md",
     "Termos/linguagens de programação type-safe.md",
     "Termos/leitor de proximidade.md",
-    "Termos/inteligência de ameaças cibernéticas (CTI).md",
-    "Termos/inteligência artificial (IA).md",
-    "Termos/injeção de memória.md",
-    "Termos/iluminação.md",
-    "Termos/feeds de ameaças.md",
-    "Termos/feed de vulnerabilidades.md",
-    "Termos/fechada-proprietária.md",
-    "Termos/fator de exposição (EF).md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
     "E-book CompTIA Security+/7.0",
