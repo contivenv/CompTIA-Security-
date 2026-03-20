@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Me explique o que foi o ataque a empresa SolarWinds"
             }
+          },
+          {
+            "id": "7de3a2ced8cd010f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "7de3a2ced8cd010f",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.1 Vulnerabilidades de aplicativos.md",
     "Dúvidas e revisão de conceitos/Me explique o que foi o ataque a empresa SolarWinds.md",
+    "conflict-files-obsidian-git.md",
+    "Dúvidas e revisão de conceitos/SBOM.md",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.1 Vulnerabilidades de aplicativos.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.4.2 Falsos-positivos, falsos-negativos e análise dos logs.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.4.1 Vulnerabilidades e exposições comuns.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.4.3 Análise de vulnerabilidades.md",
@@ -216,12 +233,10 @@
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.3 Vulnerabilidades de dia zero.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.5 Vulnerabilidades de criptografia.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.6 Sideloading, Rooting e Jailbreaking.md",
-    "conflict-files-obsidian-git.md",
     "Termos/zero-day.md",
     "Termos/vigilância por vídeo.md",
     "Termos/vestíbulo de controle de acesso.md",
     "Termos/varredura sem credenciais.md",
-    "Termos/varredura de vulnerabilidades em aplicações.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
     "E-book CompTIA Security+/7.0",
