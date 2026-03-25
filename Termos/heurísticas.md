@@ -1,0 +1,1 @@
+Método que usa comparações e análise da semelhança de recursos, em vez da equivalência de uma assinatura específica, para identificar se o objeto da observação é mal-intencionado.

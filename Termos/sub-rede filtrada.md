@@ -1,0 +1,1 @@
+Segmento isolado do resto de uma rede privada por um ou mais firewalls que aceita conexões da Internet pelas portas designadas. Conhecida anteriormente como zona desmilitarizada (DMZ), essa nomenclatura é obsoleta.

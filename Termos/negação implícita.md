@@ -1,0 +1,1 @@
+Um princípio básico de segurança que declara que, a menos que um acesso tenha sido explicitamente concedido, o acesso deve ser negado.

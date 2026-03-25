@@ -1,0 +1,1 @@
+Aplicativo ou gateway que filtra as solicitações de clientes de acordo com determinados tipos de conteúdo da Internet (Web, FTP, IM e assim por diante).

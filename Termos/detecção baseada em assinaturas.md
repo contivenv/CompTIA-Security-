@@ -1,0 +1,1 @@
+Sistema de monitoramento de rede que usa um conjunto predefinido de regras concedido por um fornecedor de software ou pessoal de segurança para identificar eventos inaceitáveis.

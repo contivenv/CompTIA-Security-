@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.5 Controle de acesso à rede.md",
+                "file": "Termos/análise de tendências.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1.5 Controle de acesso à rede"
+              "title": "análise de tendências"
             }
           }
         ]
@@ -194,10 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "Termos/AES CCM pelo modo de operação AES Galois Counter Mode (GCM).md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.3 Resumo.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
+    "Termos/filtro de acesso à web.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.3 Métodos de detecção IDS e IPS.md",
+    "Termos/análise de tendências.md",
+    "Termos/heurísticas.md",
+    "Termos/produtos de detecção de comportamento e anomalias de rede (NBAD).md",
+    "Termos/detecção baseada em assinaturas.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.2 Sistemas de detecção e prevenção de intrusão.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.1 Listas de controle de acesso.md",
+    "Termos/sub-rede filtrada.md",
+    "Termos/negação implícita.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2 Aprimoramento da capacidade de segurança de rede.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.5 Controle de acesso à rede.md",
+    "Termos/AES CCM pelo modo de operação AES Galois Counter Mode (GCM).md",
     "Termos/controle de acesso à rede (NAC).md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.4 Métodos de autenticação de Wi-Fi.md",
     "Termos/EAP over LAN (EAPoL).md",
@@ -209,20 +222,7 @@
     "Termos/Temporal Key Integrity Protocol (TKIP).md",
     "Termos/Wired Equivalent Privacy (WEP).md",
     "Termos/Wi-Fi Protected Access (WPA).md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.2 Considerações sobre instalação de rede wireless.md",
-    "Termos/mapa de calor.md",
-    "Termos/avaliação de site (site survey).md",
-    "Termos/identificador de conjunto de serviço (SSID).md",
-    "Termos/pontos de acesso.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.1 Guias de configuração segura e benchmarks.md",
-    "Termos/baseline segura.md",
-    "Termos/Hardening.md",
-    "().md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.4.4 Resposta e correção de vulnerabilidades.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.5 Resumo.md",
-    "Analogias/Prédio e inquilino - Serviços XaaS.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
     "E-book CompTIA Security+/7.0",

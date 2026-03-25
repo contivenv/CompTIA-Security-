@@ -1,0 +1,1 @@
+Processo de detectar padrões dentro de um conjunto de dados ao longo do tempo e usá-los para fazer previsões sobre eventos futuros ou para entender melhor eventos passados.

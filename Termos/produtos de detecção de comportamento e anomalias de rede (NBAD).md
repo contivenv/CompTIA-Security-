@@ -1,0 +1,1 @@
+Ferramenta de segurança que monitora comportamentos anômalos em pacotes de rede com base em assinaturas conhecidas.
