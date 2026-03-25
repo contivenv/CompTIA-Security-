@@ -1,0 +1,1 @@
+Modo de operação de alto desempenho para criptografia simétrica. Conta com uma característica especial chamada criptografia autenticada com dados associados, ou AEAD.

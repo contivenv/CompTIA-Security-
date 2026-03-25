@@ -1,0 +1,1 @@
+Mecanismo usado na primeira versão do WPA para melhorar a segurança dos mecanismos de criptografia wireless, em comparação com o falho padrão WEP.

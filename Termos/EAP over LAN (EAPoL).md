@@ -1,0 +1,1 @@
+Mecanismo de controle de acesso à rede baseado em portas (PNAC) que permite o uso da autenticação EAP quando um host se conecta a um switch Ethernet

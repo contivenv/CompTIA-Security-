@@ -1,0 +1,1 @@
+Modo de autenticação de rede wireless no qual o ponto de acesso atua como passagem para credenciais verificadas por um servidor AAA.

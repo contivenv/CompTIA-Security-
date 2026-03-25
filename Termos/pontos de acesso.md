@@ -1,0 +1,1 @@
+Dispositivo que fornece uma conexão entre dispositivos sem fio e pode se conectar a redes com fio, implementando um modo de infraestrutura WLAN.

@@ -1,0 +1,1 @@
+Padrões para autenticação e criptografia de acesso a redes Wi-Fi. Também chamado de WPA2 e WPA3.

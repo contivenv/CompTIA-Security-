@@ -1,0 +1,1 @@
+Termo geral para os protocolos, as políticas e o hardware coletados que autenticam e autorizam o acesso a uma rede no âmbito do dispositivo.

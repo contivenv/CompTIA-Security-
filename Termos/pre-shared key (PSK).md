@@ -1,0 +1,1 @@
+Modo de autenticação de rede sem fio em que um mecanismo baseado em senha é usado para permitir autenticação de grupo em uma rede sem fio. A frase de acesso é usada para originar uma chave de criptografia.

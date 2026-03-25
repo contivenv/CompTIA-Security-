@@ -1,0 +1,1 @@
+Diagrama que mostra em uma pesquisa da atividade Wi-Fi local a intensidade de sinal e a utilização de canais em diferentes locais.

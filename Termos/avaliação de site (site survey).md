@@ -1,0 +1,1 @@
+Documentação sobre um local com o intuito de criar uma infraestrutura wireless ideal. Geralmente contém os locais ideais para as antenas da rede sem fio e o posicionamento do access point (ponto de acesso) de maneira a fornecer a cobertura necessária aos clientes e a identificar fontes de interferência.

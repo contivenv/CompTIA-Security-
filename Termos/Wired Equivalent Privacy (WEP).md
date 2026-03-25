@@ -1,0 +1,1 @@
+Um mecanismo legado para criptografar dados enviados através de uma conexão wireless.

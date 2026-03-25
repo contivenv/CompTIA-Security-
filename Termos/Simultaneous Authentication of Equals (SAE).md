@@ -1,0 +1,1 @@
+Mecanismo de autenticação pessoal para redes Wi-Fi introduzido com o WPA3 para solucionar vulnerabilidades no método WPA-PSK.

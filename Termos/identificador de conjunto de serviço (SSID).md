@@ -1,0 +1,1 @@
+Cadeia de caracteres que identifica uma determinada LAN sem fio (WLAN).

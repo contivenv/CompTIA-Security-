@@ -1,0 +1,1 @@
+Um recurso do WPA e do WPA2 que permite o registro em uma rede wireless com base em um PIN de oito dígitos.
