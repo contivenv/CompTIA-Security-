@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/análise de tendências.md",
-                "mode": "preview",
+                "file": "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "análise de tendências"
+              "title": "9.2.4 Filtragem web"
             }
           }
         ]
@@ -194,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.3 Criptografia wireless.md",
+    "Termos/análise de tendências.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.3 Resumo.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
     "Termos/filtro de acesso à web.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.3 Métodos de detecção IDS e IPS.md",
-    "Termos/análise de tendências.md",
     "Termos/heurísticas.md",
     "Termos/produtos de detecção de comportamento e anomalias de rede (NBAD).md",
     "Termos/detecção baseada em assinaturas.md",
@@ -216,7 +217,6 @@
     "Termos/EAP over LAN (EAPoL).md",
     "Termos/autenticação empresarial.md",
     "Termos/pre-shared key (PSK).md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.3 Criptografia wireless.md",
     "Termos/Simultaneous Authentication of Equals (SAE).md",
     "Termos/Wi-Fi Protected Setup (WPS).md",
     "Termos/Temporal Key Integrity Protocol (TKIP).md",
