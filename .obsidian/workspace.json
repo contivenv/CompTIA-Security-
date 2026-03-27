@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "8.1 Explicar o gerenciamento de vulnerabilidades"
             }
-          },
-          {
-            "id": "7644f4d518c82f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7644f4d518c82f37",
+  "active": "3499ad2257af4b3a",
   "lastOpenFiles": [
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1 Explicar o gerenciamento de vulnerabilidades.md",
     "conflict-files-obsidian-git.md",
