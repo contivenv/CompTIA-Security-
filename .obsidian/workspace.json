@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "8.1 Explicar o gerenciamento de vulnerabilidades"
             }
+          },
+          {
+            "id": "7644f4d518c82f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "7644f4d518c82f37",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1 Explicar o gerenciamento de vulnerabilidades.md",
+    "conflict-files-obsidian-git.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.3.1 Verificação de vulnerabilidades.md",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.1.3 Vulnerabilidades de dia zero.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
@@ -221,8 +238,6 @@
     "Termos/AES CCM pelo modo de operação AES Galois Counter Mode (GCM).md",
     "Termos/controle de acesso à rede (NAC).md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.4 Métodos de autenticação de Wi-Fi.md",
-    "Termos/EAP over LAN (EAPoL).md",
-    "Termos/autenticação empresarial.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
