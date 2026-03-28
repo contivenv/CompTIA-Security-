@@ -11,14 +11,12 @@
             "id": "35e0178f01b20e2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
-                "mode": "preview",
-                "source": false
+                "file": "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf"
               },
-              "icon": "lucide-file",
-              "title": "9.1 Linhas de base de segurança da rede"
+              "icon": "lucide-file-text",
+              "title": "CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese"
             }
           }
         ]
@@ -194,8 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
+    "Anexos/pt-br_security-plus-v7.pdf",
+    "Anexos/security-plus-v7-study-objectives.pdf",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
+    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
+    "Anexos/security-plus-v7-study-outline.pdf",
+    "Anexos",
     "Erros em questões/1.md",
     "Erros em questões",
     "Dúvidas e revisão de conceitos/Proxy reverso e de encaminhamento.md",
@@ -221,16 +225,9 @@
     "Termos/controle de acesso à rede (NAC).md",
     "Termos/EAP over LAN (EAPoL).md",
     "Termos/autenticação empresarial.md",
-    "Termos/pre-shared key (PSK).md",
-    "Termos/Simultaneous Authentication of Equals (SAE).md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
-    "E-book CompTIA Security+/7.0",
-    "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura",
-    "Termos",
-    "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
-    "Roteiro de estudos/Laboratório de estudos.mdenc",
-    "Roteiro de estudos"
+    "E-book CompTIA Security+/7.0"
   ]
 }
