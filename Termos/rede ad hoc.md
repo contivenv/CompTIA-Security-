@@ -1,0 +1,1 @@
+Tipo de rede wireless em que dispositivos conectados se comunicam diretamente entre si em vez de usar um meio estabelecido.

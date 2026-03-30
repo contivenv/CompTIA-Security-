@@ -1,0 +1,1 @@
+Remoção ou restrição drástica dos caminhos de comunicação com um dispositivo ou sistema específico.

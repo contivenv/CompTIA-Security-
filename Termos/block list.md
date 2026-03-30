@@ -1,0 +1,1 @@
+Configuração de segurança em que o acesso geralmente é permitido a um processo de software, IP/domínio ou outra entidade, a menos que seja listado como explicitamente proibido.

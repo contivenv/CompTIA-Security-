@@ -1,0 +1,1 @@
+Modelo de provisionamento de dispositivos móveis corporativos no qual os funcionários dispõem de uma seleção de aparelhos corporativos para trabalho e, opcionalmente, para uso privado.

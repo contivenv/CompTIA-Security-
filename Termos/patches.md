@@ -1,0 +1,1 @@
+Uma pequena unidade de código suplementar destinada a resolver um problema de segurança ou uma falha de funcionalidade em um pacote de software ou sistema operacional.

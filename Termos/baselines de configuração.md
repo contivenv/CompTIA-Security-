@@ -1,0 +1,1 @@
+Definições de serviços e configurações de política para um dispositivo de rede ou para um servidor que opera em uma função de aplicativo específica (servidor Web, servidor de email, servidor de impressão/servidor de arquivos e assim por diante).

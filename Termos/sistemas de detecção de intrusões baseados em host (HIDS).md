@@ -1,0 +1,1 @@
+Um tipo de sistema de detecção de intrusão que monitora um sistema de computador em busca de comportamento inesperado ou mudanças drásticas no estado do sistema.

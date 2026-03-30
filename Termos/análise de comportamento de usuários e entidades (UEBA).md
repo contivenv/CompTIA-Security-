@@ -1,0 +1,1 @@
+Um sistema que pode fornecer identificação automatizada de atividades suspeitas por contas de usuário e hosts de computador.

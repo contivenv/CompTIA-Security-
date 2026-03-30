@@ -1,0 +1,1 @@
+Escopo de rede que usa tecnologias wireless de curto alcance (geralmente baseadas em Bluetooth ou NFC) para estabelecer comunicações entre dispositivos pessoais, como smartphones, notebooks e impressoras/periféricos.

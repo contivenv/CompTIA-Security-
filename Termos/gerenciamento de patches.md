@@ -1,0 +1,1 @@
+Identificar, testar e implantar atualizações do sistema operacional e de aplicativos. Os patches são frequentemente classificados como críticos, críticos para a segurança, recomendados e opcionais.

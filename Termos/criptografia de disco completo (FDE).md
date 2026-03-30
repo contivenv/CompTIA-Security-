@@ -1,0 +1,1 @@
+A criptografia de todos os dados em um disco (incluindo arquivos do sistema, arquivos temporários e o arquivo de paginação) pode ser realizada por meio de um sistema operacional compatível, um software de terceiros ou ao nível do controlador pelo próprio dispositivo de disco.

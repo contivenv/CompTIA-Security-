@@ -1,0 +1,1 @@
+Usar o plano de dados de celular de um dispositivo móvel para fornecer acesso à internet para um laptop ou PC. O PC pode ser conectado ao dispositivo móvel por USB, Bluetooth ou Wi-Fi (um hotspot móvel).

@@ -1,0 +1,1 @@
+Comando Linux para gerenciar permissões de arquivos.

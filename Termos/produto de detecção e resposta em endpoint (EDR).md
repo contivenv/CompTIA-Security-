@@ -1,0 +1,1 @@
+Agente de software que coleta dados e logs do sistema para que um sistema de monitoramento os analise e forneça detecção precoce de ameaças.

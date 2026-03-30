@@ -1,0 +1,1 @@
+Na criptografia de armazenamento, a chave privada que é usada para criptografar a chave simétrica de criptografia de mídia em massa (MEK). Isso significa que um usuário deve se autenticar para descriptografar a MEK e acessar a mídia.

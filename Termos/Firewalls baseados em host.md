@@ -1,0 +1,1 @@
+Um aplicativo de software em execução em um único host e projetado para proteger apenas esse host.

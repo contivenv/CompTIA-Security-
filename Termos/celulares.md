@@ -1,0 +1,1 @@
+Os padrões para implementar o acesso a dados através de redes móveis são implementados como gerações sucessivas. Para 2G (até cerca de 48 Kb/s) e 3G (até cerca de 42 Mb/s), existem redes de provedores GSM e CDMA concorrentes. Os padrões para 4G (até cerca de 90 Mb/s) e 5G (até cerca de 300 Mb/s) são desenvolvidos sob padrões LTE convergentes.

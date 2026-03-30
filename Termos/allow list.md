@@ -1,0 +1,1 @@
+Configuração de segurança em que o acesso é negado a qualquer entidade (processo de software, IP/domínio e assim por diante) a menos que conste na lista de permissões.

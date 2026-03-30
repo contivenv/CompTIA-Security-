@@ -1,0 +1,1 @@
+Meio de determinar a posição do receptor na Terra com base nas informações recebidas de satélites em órbita.

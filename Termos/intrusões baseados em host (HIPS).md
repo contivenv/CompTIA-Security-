@@ -1,0 +1,1 @@
+Proteção de endpoint que pode detectar e prevenir atividades maliciosas por meio de assinatura e de detecção heurística de padrões.

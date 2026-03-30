@@ -1,0 +1,1 @@
+Esquema padrão de permissões baseado em contexto que é fornecido com o CentOS e Red Hat Enterprise Linux.

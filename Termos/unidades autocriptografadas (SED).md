@@ -1,0 +1,1 @@
+Uma unidade de disco na qual o controlador pode criptografar automaticamente os dados gravados nela.

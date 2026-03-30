@@ -1,0 +1,1 @@
+Modelo de provisionamento de dispositivos móveis corporativos no qual o dispositivo pertence à organização e o uso pessoal é proibido.

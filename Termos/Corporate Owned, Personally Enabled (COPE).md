@@ -1,0 +1,1 @@
+Modelo de provisionamento de dispositivos móveis corporativos no qual o aparelho permanece como propriedade da organização mas com permissões para certos fins pessoais, como email privado, redes sociais e navegação na Web.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
+                "file": "Termos/allow list.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1 Linhas de base de segurança da rede"
+              "title": "allow list"
             }
           }
         ]
@@ -194,35 +194,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "Erros em questões/1.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
+    "Termos/tethering.md",
+    "Termos/rede ad hoc.md",
+    "Termos/Redes de área pessoal (PANs).md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
+    "Termos/sistema global de posicionamento (GPS).md",
+    "Termos/celulares.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.3 Serviços de localização.md",
+    "Termos/Geofencing.md",
+    "Termos/Indoor Positioning System (IPS).md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.2 Criptografia completa do dispositivo e mídia externa.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.1 Técnicas de hardening de dispositivos móveis.md",
+    "Termos/gerenciamento de dispositivos móveis (MDM).md",
+    "Termos/Choose Your Own Device (CYOD).md",
+    "Termos/Corporate Owned, Personally Enabled (COPE).md",
+    "Termos/Corporate Owned, Business Only (COBO).md",
+    "Termos/Bring Your Own Device (BYOD).md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2 Hardening de dispositivos móveis.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "Termos/Firewalls baseados em host.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+    "Termos/SELinux.md",
+    "Termos/block list.md",
+    "Termos/allow list.md",
+    "Termos/comando chmod.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Erros em questões",
-    "Dúvidas e revisão de conceitos/Proxy reverso e de encaminhamento.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.1 Guias de configuração segura e benchmarks.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.2 Considerações sobre instalação de rede wireless.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.3 Criptografia wireless.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.4 Métodos de autenticação de Wi-Fi.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2 Aprimoramento da capacidade de segurança de rede.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.1 Listas de controle de acesso.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.2 Sistemas de detecção e prevenção de intrusão.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.3 Métodos de detecção IDS e IPS.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.5 Controle de acesso à rede.md",
-    "Termos/análise de tendências.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.3 Resumo.md",
-    "Termos/filtro de acesso à web.md",
-    "Termos/heurísticas.md",
-    "Termos/produtos de detecção de comportamento e anomalias de rede (NBAD).md",
-    "Termos/detecção baseada em assinaturas.md",
-    "Termos/sub-rede filtrada.md",
-    "Termos/negação implícita.md",
-    "Termos/AES CCM pelo modo de operação AES Galois Counter Mode (GCM).md",
-    "Termos/controle de acesso à rede (NAC).md",
-    "Termos/EAP over LAN (EAPoL).md",
-    "Termos/autenticação empresarial.md",
-    "Termos/pre-shared key (PSK).md",
-    "Termos/Simultaneous Authentication of Equals (SAE).md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias",
@@ -230,7 +231,6 @@
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura",
     "Termos",
     "Roteiro de estudos/Roteiro principal com data das semanas e módulos de estudo.mdenc",
-    "Roteiro de estudos/Laboratório de estudos.mdenc",
-    "Roteiro de estudos"
+    "Roteiro de estudos/Laboratório de estudos.mdenc"
   ]
 }

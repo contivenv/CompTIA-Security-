@@ -1,0 +1,1 @@
+Tecnologia que pode obter a localização de um dispositivo em um ambiente fechado traçando um triângulo baseado na sua proximidade a fontes de rádio, como beacons Bluetooth ou access points Wi-Fi.

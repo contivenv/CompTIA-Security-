@@ -1,0 +1,1 @@
+Padrões para implementar a criptografia de dispositivos em dispositivos de armazenamento.

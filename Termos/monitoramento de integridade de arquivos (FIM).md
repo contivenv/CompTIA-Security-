@@ -1,0 +1,1 @@
+Tipo de software que analisa os arquivos do sistema para garantir que eles não tenham sido adulterados.

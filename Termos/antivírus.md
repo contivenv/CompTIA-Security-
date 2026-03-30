@@ -1,0 +1,1 @@
+Inspeção do tráfego para localizar e bloquear vírus.

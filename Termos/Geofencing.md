@@ -1,0 +1,1 @@
+Controle de segurança que pode impor um limite virtual com base na geografia real.
