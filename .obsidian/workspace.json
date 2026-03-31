@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/allow list.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "allow list"
+              "title": "10.1.2 Proteção de endpoints"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 407.5
   },
   "right": {
     "id": "f99067273165fa13",
@@ -194,43 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "Termos/allow list.md",
-    "conflict-files-obsidian-git.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1 Implementar a segurança do endpoint.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
+    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.4 Clustering.md",
+    "Termos/zero-day.md",
+    "Termos/vigilância por vídeo.md",
+    "Termos/vestíbulo de controle de acesso.md",
+    "Termos/varredura sem credenciais.md",
+    "Termos/varredura de vulnerabilidades em aplicações.md",
+    "Termos/varredura com credenciais.md",
+    "Termos/variáveis ambientais.md",
+    "Termos/unidades autocriptografadas (SED).md",
+    "Termos/táticas, técnicas e procedimentos (TTPs.md",
+    "Termos/time-of-check to time-of-use (TOCTOU).md",
+    "Termos/tethering.md",
+    "Termos/telemetria falsos.md",
+    "Termos/sub-rede filtrada.md",
+    "Termos/sistemas-processos.md",
+    "Termos/sistemas de detecção de intrusões baseados em host (HIDS).md",
+    "Termos/sistema global de posicionamento (GPS).md",
+    "Termos/sideloading.md",
+    "Termos/scanner de vulnerabilidadesde rede.md",
+    "Termos/risco refere-se.md",
+    "Termos/rede ad hoc.md",
+    "Erros em questões",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/security-plus-v7-study-outline.pdf",
     "Anexos/security-plus-v7-study-objectives.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
-    "Termos/tethering.md",
-    "Termos/rede ad hoc.md",
-    "Termos/Redes de área pessoal (PANs).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
-    "Termos/sistema global de posicionamento (GPS).md",
-    "Termos/celulares.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.3 Serviços de localização.md",
-    "Termos/Geofencing.md",
-    "Termos/Indoor Positioning System (IPS).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.2 Criptografia completa do dispositivo e mídia externa.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.1 Técnicas de hardening de dispositivos móveis.md",
-    "Termos/gerenciamento de dispositivos móveis (MDM).md",
-    "Termos/Choose Your Own Device (CYOD).md",
-    "Termos/Corporate Owned, Personally Enabled (COPE).md",
-    "Termos/Corporate Owned, Business Only (COBO).md",
-    "Termos/Bring Your Own Device (BYOD).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2 Hardening de dispositivos móveis.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
-    "Termos/Firewalls baseados em host.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
-    "Termos/SELinux.md",
-    "Termos/block list.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
-    "Erros em questões",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
     "Analogias"
   ]
 }
