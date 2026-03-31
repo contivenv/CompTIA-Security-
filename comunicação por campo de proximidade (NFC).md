@@ -1,0 +1,1 @@
+Um padrão para comunicações de rádio bidirecionais em distâncias muito curtas (cerca de dez centímetros), facilitando o pagamento sem contato e tecnologias semelhantes. O NFC é baseado em RFID.

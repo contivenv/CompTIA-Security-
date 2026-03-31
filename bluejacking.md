@@ -1,0 +1,1 @@
+Envio de uma mensagem ou imagem não solicitada usando uma conexão Bluetooth.
