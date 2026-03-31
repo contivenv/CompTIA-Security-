@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1befe1fff9fe5dee",
+        "id": "39f9ec1de942c757",
         "type": "tabs",
         "children": [
           {
-            "id": "35e0178f01b20e2c",
+            "id": "fd95b16797819a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1.2 Proteção de endpoints"
+              "title": "10.1.4 Configuração de endpoints"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 385.5
   },
   "right": {
     "id": "f99067273165fa13",
@@ -105,20 +105,6 @@
               },
               "icon": "links-coming-in",
               "title": "Links inversos para Computação em núvem"
-            }
-          },
-          {
-            "id": "e89d36c0aef1e1c8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para Computação em núvem"
             }
           },
           {
@@ -176,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,43 +180,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.3 Proteção avançada de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1 Implementar a segurança do endpoint.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.4 Clustering.md",
-    "Termos/zero-day.md",
-    "Termos/vigilância por vídeo.md",
-    "Termos/vestíbulo de controle de acesso.md",
-    "Termos/varredura sem credenciais.md",
-    "Termos/varredura de vulnerabilidades em aplicações.md",
-    "Termos/varredura com credenciais.md",
-    "Termos/variáveis ambientais.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "Dúvidas e revisão de conceitos/UBA vs UEBA - Detectando Ameaças Internas.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
+    "Dúvidas e revisão de conceitos/XDR - Ampliando a Detecção e Resposta.md",
+    "Dúvidas e revisão de conceitos/Computação em núvem.md",
+    "Dúvidas e revisão de conceitos/Eu não entendi muito bem como é avaliada essa tabela. Pode me explicar de uma maneira mais simples.md",
+    "Dúvidas e revisão de conceitos/Firmware de Firewall vs. PC.md",
+    "Termos/chave de criptografia de chave (KEK).md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
     "Termos/unidades autocriptografadas (SED).md",
-    "Termos/táticas, técnicas e procedimentos (TTPs.md",
-    "Termos/time-of-check to time-of-use (TOCTOU).md",
     "Termos/tethering.md",
-    "Termos/telemetria falsos.md",
-    "Termos/sub-rede filtrada.md",
-    "Termos/sistemas-processos.md",
     "Termos/sistemas de detecção de intrusões baseados em host (HIDS).md",
     "Termos/sistema global de posicionamento (GPS).md",
-    "Termos/sideloading.md",
-    "Termos/scanner de vulnerabilidadesde rede.md",
-    "Termos/risco refere-se.md",
     "Termos/rede ad hoc.md",
+    "Termos/produto de detecção e resposta em endpoint (EDR).md",
+    "Termos/patches.md",
+    "Termos/monitoramento de integridade de arquivos (FIM).md",
+    "Termos/intrusões baseados em host (HIPS).md",
+    "Termos/gerenciamento de patches.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
+    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
+    "Anexos/pt-br_security-plus-v7.pdf",
+    "Anexos/security-plus-v7-study-objectives.pdf",
+    "Anexos/security-plus-v7-study-outline.pdf",
+    "Anexos",
     "Erros em questões",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
-    "Anexos/security-plus-v7-study-outline.pdf",
-    "Anexos/security-plus-v7-study-objectives.pdf",
-    "Anexos/pt-br_security-plus-v7.pdf",
-    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
-    "Anexos",
     "Analogias"
   ]
 }
