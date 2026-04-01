@@ -160,6 +160,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "00224b14c0e38a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 10.1.4 Configuração de endpoints"
+            }
           }
         ],
         "currentTab": 4
@@ -182,16 +196,19 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "threat hunting.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+    "Termos/allow list.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
+    "Termos/comando chmod.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.3 Proteção avançada de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1 Implementar a segurança do endpoint.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
     "Dúvidas e revisão de conceitos/UBA vs UEBA - Detectando Ameaças Internas.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
     "Dúvidas e revisão de conceitos/XDR - Ampliando a Detecção e Resposta.md",
     "Dúvidas e revisão de conceitos/Computação em núvem.md",
     "Dúvidas e revisão de conceitos/Eu não entendi muito bem como é avaliada essa tabela. Pode me explicar de uma maneira mais simples.md",
@@ -205,9 +222,6 @@
     "Termos/rede ad hoc.md",
     "Termos/produto de detecção e resposta em endpoint (EDR).md",
     "Termos/patches.md",
-    "Termos/monitoramento de integridade de arquivos (FIM).md",
-    "Termos/intrusões baseados em host (HIPS).md",
-    "Termos/gerenciamento de patches.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
