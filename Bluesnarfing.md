@@ -1,0 +1,1 @@
+Um ataque wireless em que um invasor obtém acesso a informações não autorizadas em um dispositivo usando uma conexão Bluetooth.

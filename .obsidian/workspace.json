@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "10.1.4 Configuração de endpoints"
             }
+          },
+          {
+            "id": "cb07066d96e22b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 10.1.4 Configuração de endpoints"
+              "title": "Links de saída para conflict-files-obsidian-git"
             }
           }
         ],
@@ -194,10 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "cb07066d96e22b05",
   "lastOpenFiles": [
-    "threat hunting.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+    "conflict-files-obsidian-git.md",
+    "comunicação por campo de proximidade (NFC).md",
+    "bluejacking.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.3 Resumo.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.7 Comunicações a curta distância e serviços de pagamento móvel.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.6 Métodos de conexão Bluetooth.md",
+    "Bluetooth.md",
+    "Bluesnarfing.md",
+    "threat hunting.md",
     "Termos/allow list.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
@@ -214,14 +237,6 @@
     "Dúvidas e revisão de conceitos/Eu não entendi muito bem como é avaliada essa tabela. Pode me explicar de uma maneira mais simples.md",
     "Dúvidas e revisão de conceitos/Firmware de Firewall vs. PC.md",
     "Termos/chave de criptografia de chave (KEK).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
-    "Termos/unidades autocriptografadas (SED).md",
-    "Termos/tethering.md",
-    "Termos/sistemas de detecção de intrusões baseados em host (HIDS).md",
-    "Termos/sistema global de posicionamento (GPS).md",
-    "Termos/rede ad hoc.md",
-    "Termos/produto de detecção e resposta em endpoint (EDR).md",
-    "Termos/patches.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
