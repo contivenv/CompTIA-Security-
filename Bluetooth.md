@@ -1,0 +1,1 @@
+Meio de transmissão de rede sem fio e de curto alcance por rádio normalmente usado para conectar dois dispositivos pessoais, como um telefone celular e um headset wireless.

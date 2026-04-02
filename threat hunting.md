@@ -1,0 +1,13 @@
+## O que é a busca por ameaças?
+
+[A busca proativa de ameaças, também conhecida como caça a ameaças cibernéticas, é uma abordagem para identificar ameaças cibernéticas](https://www-ibm-com.translate.goog/think/topics/cyberthreats-types?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) previamente desconhecidas ou em andamento na rede de uma organização.
+
+A busca ativa de ameaças é importante porque ajuda as organizações a fortalecerem sua [postura de segurança](https://www-ibm-com.translate.goog/think/topics/security-posture?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) contra [ransomware](https://www-ibm-com.translate.goog/think/topics/ransomware?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) , [ameaças internas](https://www-ibm-com.translate.goog/think/topics/insider-threats?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) e outros [ataques cibernéticos](https://www-ibm-com.translate.goog/think/topics/cyber-attack?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) que poderiam passar despercebidos.
+
+Embora ferramentas de segurança automatizadas e analistas vigilantes [de centros de operações de segurança (SOC)](https://www-ibm-com.translate.goog/topics/security-operations-center?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) possam detectar a maioria das ameaças [cibernéticas](https://www-ibm-com.translate.goog/think/topics/cybersecurity?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) antes que causem grandes danos, algumas ameaças sofisticadas conseguem ultrapassar essas defesas.
+
+Quando um agente malicioso consegue entrar em um sistema, ele pode permanecer oculto por semanas ou até meses antes de ser descoberto. De acordo com [o relatório "Cost of a Data Breach"](https://www-ibm-com.translate.goog/reports/data-breach?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) da IBM , leva-se em média 181 dias para identificar que uma [violação de dados](https://www-ibm-com.translate.goog/think/topics/data-breach?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) ocorreu. Durante todo esse tempo, os invasores extraem dados e roubam credenciais para obter acesso adicional. 
+
+Que danos podem causar essas ameaças potenciais? De acordo com o _relatório "Custo de uma Violação de Dados"_ , o custo médio de uma violação para uma empresa é de US$ 4,88 milhões. Quanto maior o tempo entre o acesso inicial e a contenção, maior o custo para a organização.  
+
+A busca eficaz por ameaças envolve equipes de segurança que procuram proativamente por essas ameaças ocultas. Como resultado, as organizações podem descobrir intrusões e implementar medidas de mitigação muito mais rapidamente, reduzindo os danos que os invasores podem causar.
