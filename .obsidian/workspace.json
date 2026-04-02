@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1.2 Proteção de endpoints"
+              "title": "10.1.6 Hardening de dispositivos especializados"
             }
           }
         ]
@@ -196,11 +196,21 @@
   },
   "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.3 Serviços de localização.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.2 Criptografia completa do dispositivo e mídia externa.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.1 Técnicas de hardening de dispositivos móveis.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2 Hardening de dispositivos móveis.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.6 Hardening de dispositivos especializados.md",
+    "keylogger.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.3 Proteção avançada de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1 Implementar a segurança do endpoint.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.4 Clustering.md",
     "Termos/zero-day.md",
     "Termos/vigilância por vídeo.md",
@@ -212,16 +222,6 @@
     "Termos/unidades autocriptografadas (SED).md",
     "Termos/táticas, técnicas e procedimentos (TTPs.md",
     "Termos/time-of-check to time-of-use (TOCTOU).md",
-    "Termos/tethering.md",
-    "Termos/telemetria falsos.md",
-    "Termos/sub-rede filtrada.md",
-    "Termos/sistemas-processos.md",
-    "Termos/sistemas de detecção de intrusões baseados em host (HIDS).md",
-    "Termos/sistema global de posicionamento (GPS).md",
-    "Termos/sideloading.md",
-    "Termos/scanner de vulnerabilidadesde rede.md",
-    "Termos/risco refere-se.md",
-    "Termos/rede ad hoc.md",
     "Erros em questões",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
     "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
