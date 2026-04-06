@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
+                "file": "Termos/assinatura de código.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.3 Resumo"
+              "title": "assinatura de código"
             }
           }
         ]
@@ -194,34 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35e0178f01b20e2c",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
-    "Sandboxing.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "Termos/Sandboxing.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
-    "manipulador estruturado de exceções (SEH).md",
-    "exceções.md",
-    "Exposição de dados.md",
+    "Termos/manipulador estruturado de exceções (SEH).md",
+    "Termos/exceções.md",
+    "Termos/Exposição de dados.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
-    "assinatura de código.md",
-    "Cookies.md",
-    "validação de entrada.md",
+    "Termos/assinatura de código.md",
+    "Termos/Cookies.md",
+    "Termos/validação de entrada.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
-    "Extensões de Segurança DNS (DNSSEC).md",
+    "Termos/Extensões de Segurança DNS (DNSSEC).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
-    "prevenção contra perda de dados (DLP).md",
+    "Termos/prevenção contra perda de dados (DLP).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
-    "Domain-based Message Authentication, Reporting & Conformance (DMARC).md",
-    "DomainKeys Identified Mail (DKIM).md",
-    "Sender Policy Framework (SPF).md",
+    "Termos/Domain-based Message Authentication, Reporting & Conformance (DMARC).md",
+    "Termos/DomainKeys Identified Mail (DKIM).md",
+    "Termos/Sender Policy Framework (SPF).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
-    "Internet Message Access Protocol (IMAP).md",
-    "Post Office Protocol v3 (POP3).md",
-    "Simple Mail Transfer Protocol (SMTP).md",
+    "Termos/Internet Message Access Protocol (IMAP).md",
+    "Termos/Post Office Protocol v3 (POP3).md",
+    "Termos/Simple Mail Transfer Protocol (SMTP).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
-    "TLS implícito (FTPS).md",
+    "Termos/TLS implícito (FTPS).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./Sem título",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "Anexos/security-plus-v7-study-outline.pdf",
