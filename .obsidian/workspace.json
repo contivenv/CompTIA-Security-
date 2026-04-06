@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é uma baseline segura ?"
+              "title": "10.1.2 Proteção de endpoints"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para O que é uma baseline segura ?"
+              "title": "Links inversos para 10.1.2 Proteção de endpoints"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para O que é uma baseline segura ?"
+              "title": "Links de saída para 10.1.2 Proteção de endpoints"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
+                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.2 Proteção de endpoints.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de O que é uma baseline segura ?"
+              "title": "Sumário de 10.1.2 Proteção de endpoints"
             }
           },
           {
@@ -197,9 +197,12 @@
   },
   "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1 Implementar a segurança do endpoint.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.1 Guias de configuração segura e benchmarks.md",
-    "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.2 Considerações sobre instalação de rede wireless.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
+    "Dúvidas e revisão de conceitos/O que é uma baseline segura ?.md",
     "Erros em questões/1.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
     "gemini-scribe/Prompts/example-expert.md",
@@ -224,9 +227,6 @@
     "Termos/validação de entrada.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
-    "Termos/Extensões de Segurança DNS (DNSSEC).md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
-    "Termos/prevenção contra perda de dados (DLP).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./Sem título",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "Anexos/security-plus-v7-study-outline.pdf",
