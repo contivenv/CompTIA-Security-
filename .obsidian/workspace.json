@@ -191,11 +191,18 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "3499ad2257af4b3a",
   "lastOpenFiles": [
+    "gemini-scribe/Agent-Sessions/A pasta 10.0 contém informações detalhadas sobre -.md",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/skills",
+    "gemini-scribe",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
     "Termos/Sandboxing.md",
@@ -220,17 +227,11 @@
     "Termos/Internet Message Access Protocol (IMAP).md",
     "Termos/Post Office Protocol v3 (POP3).md",
     "Termos/Simple Mail Transfer Protocol (SMTP).md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
-    "Termos/TLS implícito (FTPS).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./Sem título",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "Anexos/security-plus-v7-study-outline.pdf",
     "Anexos/security-plus-v7-study-objectives.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
-    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
-    "Anexos",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
-    "Erros em questões",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede"
+    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf"
   ]
 }
