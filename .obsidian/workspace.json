@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1.5 Técnicas de hardening"
+              "title": "11.0 Aprimorar os recursos de segurança de aplicativos."
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.3 Resumo.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.7 Comunicações a curta distância e serviços de pagamento móvel.md",
     "comunicação por campo de proximidade (NFC).md",
@@ -224,13 +228,9 @@
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.3 Serviços de localização.md",
     "Termos/Geofencing.md",
     "Termos/Indoor Positioning System (IPS).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.2 Criptografia completa do dispositivo e mídia externa.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.1 Técnicas de hardening de dispositivos móveis.md",
-    "Termos/gerenciamento de dispositivos móveis (MDM).md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Erros em questões",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais",
-    "Analogias"
+    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais"
   ]
 }
