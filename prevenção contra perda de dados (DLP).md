@@ -1,0 +1,1 @@
+Solução de software que detecta e impede que informações confidenciais sejam armazenadas em sistemas não autorizados ou transmitidas por redes não autorizadas. Também conhecido como "DLP".

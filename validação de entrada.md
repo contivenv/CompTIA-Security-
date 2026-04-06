@@ -1,0 +1,1 @@
+Qualquer técnica usada para garantir que os dados inseridos em um campo ou variável em um aplicativo sejam tratados adequadamente por esse aplicativo.

@@ -1,0 +1,1 @@
+Um tipo de FTP que usa TLS para confidencialidade.

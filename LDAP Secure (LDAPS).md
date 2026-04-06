@@ -1,0 +1,1 @@
+Método de implementação de LDAP usando criptografia SSL/TLS.

@@ -1,0 +1,1 @@
+Vulnerabilidade de aplicativo definida pelo modo como um aplicativo responde a erros inesperados que podem levar a falhas em sua segurança.

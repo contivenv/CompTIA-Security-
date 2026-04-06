@@ -1,0 +1,1 @@
+Protocolo de aplicativo usado para enviar e-mail entre hosts na Internet. As mensagens são enviadas entre os servidores pela porta TCP 25 ou por um cliente de e-mail pela porta segura TCP/587.

@@ -1,0 +1,1 @@
+Ambiente de computação isolado de um sistema host para garantir que o ambiente seja executado de maneira controlada e segura. Em geral, links de comunicação entre a área restrita e o host são completamente proibidos, de modo que o malware ou o software defeituoso possa ser analisado isoladamente e sem risco para o host.

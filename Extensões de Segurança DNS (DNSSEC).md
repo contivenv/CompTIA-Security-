@@ -1,0 +1,1 @@
+Protocolo de segurança que fornece autenticação de dados DNS e mantém a integridade dos dados DNS.

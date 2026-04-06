@@ -1,0 +1,1 @@
+Estrutura para garantir a aplicação adequada de SPF e DKIM usando uma política publicada como registro DNS.

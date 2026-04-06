@@ -1,0 +1,1 @@
+Um mecanismo de autenticação criptográfica para email que usa uma public key (chave pública) publicada como um registro DNS.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.0 Aprimorar os recursos de segurança de aplicativos."
+              "title": "11.3 Resumo"
             }
           }
         ]
@@ -194,43 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "35e0178f01b20e2c",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
-    "conflict-files-obsidian-git.md",
-    "threat hunting.md",
-    "keylogger.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.5 Técnicas de hardening.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
+    "Sandboxing.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "manipulador estruturado de exceções (SEH).md",
+    "exceções.md",
+    "Exposição de dados.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "assinatura de código.md",
+    "Cookies.md",
+    "validação de entrada.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
+    "Extensões de Segurança DNS (DNSSEC).md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
+    "prevenção contra perda de dados (DLP).md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
+    "Domain-based Message Authentication, Reporting & Conformance (DMARC).md",
+    "DomainKeys Identified Mail (DKIM).md",
+    "Sender Policy Framework (SPF).md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
+    "Internet Message Access Protocol (IMAP).md",
+    "Post Office Protocol v3 (POP3).md",
+    "Simple Mail Transfer Protocol (SMTP).md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
+    "TLS implícito (FTPS).md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./Sem título",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.4 Configuração de endpoints.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.3 Resumo.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.7 Comunicações a curta distância e serviços de pagamento móvel.md",
-    "comunicação por campo de proximidade (NFC).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.6 Métodos de conexão Bluetooth.md",
-    "Bluesnarfing.md",
-    "bluejacking.md",
-    "Bluetooth.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.1.1 Hardening de endpoints.md",
-    "Dúvidas e revisão de conceitos/XDR - Ampliando a Detecção e Resposta.md",
-    "Dúvidas e revisão de conceitos/UBA vs UEBA - Detectando Ameaças Internas.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
-    "Termos/allow list.md",
     "Anexos/security-plus-v7-study-outline.pdf",
     "Anexos/security-plus-v7-study-objectives.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.5 Métodos de conexão Wi-Fi e tethering.md",
-    "Termos/tethering.md",
-    "Termos/rede ad hoc.md",
-    "Termos/Redes de área pessoal (PANs).md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.4 Métodos de conexão celular e GPS.md",
-    "Termos/sistema global de posicionamento (GPS).md",
-    "Termos/celulares.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.2.3 Serviços de localização.md",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Erros em questões",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais"
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede"
   ]
 }

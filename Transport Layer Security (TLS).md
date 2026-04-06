@@ -1,0 +1,1 @@
+Um protocolo de segurança que usa certificados para autenticação e criptografia que fornece segurança de ponta a ponta para proteger as comunicações na Web e outros protocolos de aplicativos.

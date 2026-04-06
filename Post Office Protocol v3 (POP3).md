@@ -1,0 +1,1 @@
+Protocolo de aplicativo que permite que um cliente baixe mensagens de email de uma caixa de correio do servidor para um cliente pela porta TCP/110 ou porta segura TCP/995.

@@ -1,0 +1,1 @@
+Um registro DNS que identifica hosts autorizados a enviar emails para o domínio.

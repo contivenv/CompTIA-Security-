@@ -1,0 +1,1 @@
+Listas de algoritmos criptográficos que um servidor e um cliente podem usar para negociar uma conexão segura.

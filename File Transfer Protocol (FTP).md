@@ -1,0 +1,1 @@
+Protocolo de aplicativo usado para transferir arquivos entre hosts de rede. As variantes incluem SFTP, ou Secure FTP; FTP com SSL (FTPS e FTPES); e TFTP, ou Trivial FTP. O FTP utiliza as portas 20 e 21.

@@ -1,0 +1,1 @@
+Vulnerabilidade de software em que um invasor é capaz de contornar os controles de acesso e obter dados confidenciais ou sensíveis do sistema de arquivos ou do banco de dados.

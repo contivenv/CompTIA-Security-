@@ -1,0 +1,1 @@
+Mecanismo para lidar com as condições de erro inesperadas que podem surgir durante a execução do código. O tratamento eficaz de erros reduz as chances de um programa ser explorado.

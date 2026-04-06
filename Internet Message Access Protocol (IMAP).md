@@ -1,0 +1,1 @@
+Protocolo de aplicativo que fornece um meio para o cliente acessar e gerenciar mensagens de email armazenadas na caixa de correio em um servidor remoto. O IMAP4 utiliza a porta TCP número 143, enquanto a versão segura IMAPS utiliza a TCP/993.

@@ -1,0 +1,1 @@
+Uma versão segura do protocolo FTP que usa um túnel Secure Shell (SSH) como método de criptografia para transferir, acessar e gerenciar arquivos.

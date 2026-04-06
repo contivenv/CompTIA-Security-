@@ -1,0 +1,1 @@
+Protocolo de aplicativo usado para monitorar e gerenciar dispositivos de rede. O SNMP usa as portas UDP 161 e 162, por padrão.

@@ -1,0 +1,1 @@
+Arquivo de texto usado para armazenar informações sobre um usuário quando ele visita um site. Alguns sites usam cookies para oferecer suporte às sessões do usuário.

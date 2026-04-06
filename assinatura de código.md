@@ -1,0 +1,1 @@
+Método que usa uma assinatura digital para garantir a origem e integridade do código de programação.
