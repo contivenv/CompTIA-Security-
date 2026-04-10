@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.1.5 Serviços de transferência de arquivos"
+              "title": "11.2.1 Técnicas de codificação seguras"
             }
           }
         ]
@@ -195,6 +195,17 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "Termos/Cookies.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.2 Segurança da camada de transporte.md",
     "Dúvidas e revisão de conceitos/Me explique de forma resumida esse capítulo, foi difícil de entender a última parte.md",
@@ -210,17 +221,6 @@
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2 Aprimoramento da capacidade de segurança de rede.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.1 Listas de controle de acesso.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.2 Sistemas de detecção e prevenção de intrusão.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.3 Métodos de detecção IDS e IPS.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.4 Filtragem web.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.1 Guias de configuração segura e benchmarks.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint/10.0 Avaliar os recursos de segurança do endpoint.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.3.3 Túnel de segurança de protocolo de Internet.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.3.6 Secure Shell.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.6 Superfície de ataque.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.3.4 Trocas de chaves na Internet.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.3.1 Controles de segurança física.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.3.2 Layout, cercas e iluminação do local.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
