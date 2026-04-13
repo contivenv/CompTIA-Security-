@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.2.1 Técnicas de codificação seguras"
+              "title": "11.0 Aprimorar os recursos de segurança de aplicativos."
             }
           }
         ]
@@ -195,19 +195,21 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
-    "Termos/Cookies.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.2 Segurança da camada de transporte.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "Termos/exceções.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.2 Segurança da camada de transporte.md",
+    "Termos/Cookies.md",
     "Dúvidas e revisão de conceitos/Me explique de forma resumida esse capítulo, foi difícil de entender a última parte.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.1 Protocolos seguros.md",
     "Dúvidas e revisão de conceitos/Sem título.md",
@@ -219,8 +221,6 @@
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.4 Métodos de autenticação de Wi-Fi.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.5 Controle de acesso à rede.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2 Aprimoramento da capacidade de segurança de rede.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.1 Listas de controle de acesso.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2.2 Sistemas de detecção e prevenção de intrusão.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
