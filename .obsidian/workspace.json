@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
+                "file": "TLS 1.3 Simplificando Segurança na Web.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.0 Aprimorar os recursos de segurança de aplicativos."
+              "title": "TLS 1.3 Simplificando Segurança na Web"
             }
           }
         ]
@@ -196,31 +196,31 @@
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.2 Segurança da camada de transporte.md",
+    "TLS 1.3 Simplificando Segurança na Web.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.1 Protocolos seguros.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1 Parâmetros de referência para a segurança dos protocolos de aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
+    "Exemplo Prático de TLS em Rede.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.3 Resumo.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
     "Termos/exceções.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
     "Termos/Cookies.md",
     "Dúvidas e revisão de conceitos/Me explique de forma resumida esse capítulo, foi difícil de entender a última parte.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.1 Protocolos seguros.md",
     "Dúvidas e revisão de conceitos/Sem título.md",
     "Dúvidas e revisão de conceitos/O que é o Diffie-Hellman em cibersegurança ? Me explique o que é de forma simples-objetiva. Também quero que me dê um exemplo simples dele para que eu possa fixar..md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1 Parâmetros de referência para a segurança dos protocolos de aplicativos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.2 Considerações sobre instalação de rede wireless.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.3 Criptografia wireless.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.4 Métodos de autenticação de Wi-Fi.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1.5 Controle de acesso à rede.md",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.2 Aprimoramento da capacidade de segurança de rede.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
