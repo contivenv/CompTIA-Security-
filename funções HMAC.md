@@ -1,0 +1,3 @@
+De forma bem prática: o HMAC é uma função de **hash** que usa uma **chave secreta**. É como se fosse um selo de cera personalizado que só você e o destinatário possuem o anel para validar. Se alguém tentar falsificar, o selo quebra e a mensagem é descartada.
+
+Diferente de um hash comum (como o SHA-256 sozinho), que qualquer um pode gerar se tiver o arquivo, o HMAC exige que você conheça uma chave secreta compartilhada para criar o código final. Sem essa chave, um invasor pode até alterar sua mensagem, mas ele nunca conseguirá gerar o HMAC correspondente que prove que ela é legítima.
