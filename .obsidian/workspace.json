@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.1.6 Serviços de email"
+              "title": "11.1.7 Segurança de email"
             }
           }
         ]
@@ -195,7 +195,15 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
     "Dúvidas e revisão de conceitos/Zabbix e  protocolo SNMP -  Monitoramento Essencial.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
@@ -211,15 +219,7 @@
     "TLS 1.3 Simplificando Segurança na Web.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
     "Exemplo Prático de TLS em Rede.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
     "Termos/exceções.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
     "Termos/Cookies.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
