@@ -1,0 +1,1 @@
+RPZ é um mecanismo que permite que um administrador de DNS personalize as respostas das consultas. Ou seja, em vez de o servidor DNS simplesmente entregar o endereço IP que foi pedido, ele consulta uma "lista negra" (ou de políticas) e decide se vai te levar para o site real, te bloquear ou te mandar para uma página de aviso.
