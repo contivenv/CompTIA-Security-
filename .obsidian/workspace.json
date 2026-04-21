@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "feeds de zona de política de resposta (Response Policy Zone, RPZ).md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "feeds de zona de política de resposta (Response Policy Zone, RPZ)"
+              "title": "11.2.3 Criação de sandbox para software"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
     "feeds de zona de política de resposta (Response Policy Zone, RPZ).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
@@ -203,10 +206,7 @@
     "Dúvidas e revisão de conceitos/funções HMAC.md",
     "Dúvidas e revisão de conceitos/Exemplo Prático de TLS em Rede.md",
     "Analogias/TLS 1.3 Simplificando Segurança na Web.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
     "Analogias/Gateway de e-mail.md",
     "Analogias/SPF, DKIM e DMARC.md",
     "Analogias/Prédio e inquilino - Serviços XaaS.md",
