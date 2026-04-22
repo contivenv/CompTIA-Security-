@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.4 Análise.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.2.3 Criação de sandbox para software"
+              "title": "12.1.4 Análise"
             }
           }
         ]
@@ -195,32 +195,33 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "Termos/feeds de zona de política de resposta (Response Policy Zone, RPZ).md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.4 Análise.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.3 Detecção.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.2 Preparação.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.1 Processos de resposta a incidentes.md",
+    "Termos/preparação.md",
+    "Termos/plano formal de resposta a incidentes (IRP).md",
+    "Termos/lista de chamadas.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1 Resposta a incidentes.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.0 Explicar os conceitos de monitoramento e resposta a incidentes..md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.2 Proteções para aplicativos.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.1 Técnicas de codificação seguras.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2 Conceitos de segurança de aplicativos web e de nuvem.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.9 Filtragem de DNS.md",
-    "feeds de zona de política de resposta (Response Policy Zone, RPZ).md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.7 Segurança de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.8 Prevenção contra perda de dados por email.md",
     "Termos/ataque on-path.md",
     "Dúvidas e revisão de conceitos/funções HMAC.md",
     "Dúvidas e revisão de conceitos/Exemplo Prático de TLS em Rede.md",
     "Analogias/TLS 1.3 Simplificando Segurança na Web.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.2.3 Criação de sandbox para software.md",
     "Analogias/Gateway de e-mail.md",
     "Analogias/SPF, DKIM e DMARC.md",
     "Analogias/Prédio e inquilino - Serviços XaaS.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.6 Serviços de email.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.5 Serviços de transferência de arquivos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.4 Segurança com protocolo de gerenciamento de rede simples.md",
-    "Dúvidas e revisão de conceitos/Zabbix e  protocolo SNMP -  Monitoramento Essencial.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.3 Serviços de diretório seguro.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.2 Segurança da camada de transporte.md",
-    "funções HMAC.md",
-    "ataque on-path.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1.1 Protocolos seguros.md",
-    "Dúvidas e revisão de conceitos/SBOM.md",
-    "Dúvidas e revisão de conceitos/TCP vs UDP - Confiança e Velocidade.md",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
@@ -229,7 +230,6 @@
     "Anexos/security-plus-v7-study-outline.pdf",
     "Anexos",
     "Erros em questões",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede",
-    "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais"
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede"
   ]
 }

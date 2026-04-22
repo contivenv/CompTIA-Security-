@@ -1,0 +1,1 @@
+Um documento que lista contatos autorizados para notificação e colaboração durante um incidente de segurança.

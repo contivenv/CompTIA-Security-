@@ -1,0 +1,1 @@
+Processo de resposta a incidentes que fortalece sistemas, define políticas e procedimentos, estabelece linhas de comunicação e implementa recursos.

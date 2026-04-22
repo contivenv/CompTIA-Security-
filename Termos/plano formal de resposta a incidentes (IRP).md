@@ -1,0 +1,1 @@
+Procedimentos específicos que devem ser executados se um determinado tipo de evento for detectado ou relatado.
