@@ -1,0 +1,1 @@
+Estratégia de mitigação de ataques DoS que redireciona para outra rede o tráfego que estiver sobresaturando (flooding) um endereço IP-alvo para fins de análise.

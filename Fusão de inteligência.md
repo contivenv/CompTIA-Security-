@@ -1,0 +1,1 @@
+Na busca por ameaças, trata-se do uso de fontes de dados de threat intelligence para automatizar a detecção de IoCs e TTPs adversários.

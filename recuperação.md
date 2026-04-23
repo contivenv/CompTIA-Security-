@@ -1,0 +1,1 @@
+Um processo de resposta a incidentes no qual hosts, redes e sistemas são revertidos a uma configuração de linha de base segura.

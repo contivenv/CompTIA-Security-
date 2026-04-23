@@ -1,3 +1,4 @@
+Uma técnica de cibersegurança projetada para detectar a presença de ameaças que não foram descobertas pelo monitoramento de segurança normal.
 ## O que é a busca por ameaças?
 
 [A busca proativa de ameaças, também conhecida como caça a ameaças cibernéticas, é uma abordagem para identificar ameaças cibernéticas](https://www-ibm-com.translate.goog/think/topics/cyberthreats-types?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) previamente desconhecidas ou em andamento na rede de uma organização.

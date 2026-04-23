@@ -1,0 +1,1 @@
+Uma análise de eventos que podem fornecer informações sobre como melhorar os processos de resposta e suporte no futuro.

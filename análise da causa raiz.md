@@ -1,0 +1,1 @@
+Uma técnica usada para determinar a verdadeira causa do problema, que, quando removida, impede que ele ocorra novamente.

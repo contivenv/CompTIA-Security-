@@ -1,0 +1,1 @@
+Na cibersegurança, **footprint** (ou footprinting, traduzido como "pegada digital") refere-se ao ==rastro de dados, informações e atividades que uma pessoa, organização ou sistema deixa ao utilizar a internet==. É o processo de coleta de informações sobre um alvo para identificar vulnerabilidades e planejar um ataque.

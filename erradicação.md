@@ -1,0 +1,1 @@
+Processo de resposta a incidentes no qual se removem as ferramentas e configurações mal-intencionadas em hosts e redes.

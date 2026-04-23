@@ -1,0 +1,1 @@
+Na busca de ameaças, o conceito de que o ator e o defensor da ameaça podem usar estratégias de engano ou contra-ataque para obter vantagem posicional.
