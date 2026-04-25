@@ -1,0 +1,1 @@
+Na análise forense digital, trata-se do método e das ferramentas usados para criar uma cópia com validez forense dos dados de um dispositivo de origem, como disco rígido ou memória do sistema.

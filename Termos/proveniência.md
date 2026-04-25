@@ -1,0 +1,1 @@
+Na análise forense digital, refere-se a ser capaz de rastrear a fonte de evidências até uma cena de crime e mostrar que ela não foi adulterada.

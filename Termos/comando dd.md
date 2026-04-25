@@ -1,0 +1,1 @@
+Comando Linux que faz uma cópia bit por bit do arquivo apresentado, normalmente usado para gerar imagens de disco.

@@ -1,0 +1,1 @@
+O processo de coletar e enviar evidências do computador para julgamento. A evidência digital é latente, ou seja, ela deve ser interpretada. Isso significa que precisamos de muita atenção para provar que a evidência não foi adulterada ou falsificada.

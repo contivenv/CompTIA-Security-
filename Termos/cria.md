@@ -1,0 +1,1 @@
+Um arquivo que contém dados capturados da memória do sistema.

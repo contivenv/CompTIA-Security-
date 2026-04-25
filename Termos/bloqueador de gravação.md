@@ -1,0 +1,1 @@
+Uma ferramenta forense para impedir que o dispositivo de captura ou análise ou a estação de trabalho altere dados em um disco ou mídia de destino.

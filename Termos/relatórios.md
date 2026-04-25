@@ -1,0 +1,1 @@
+Processo forense que resume conteúdos significativos de dados digitais usando métodos e ferramentas abertos, repetíveis e imparciais.

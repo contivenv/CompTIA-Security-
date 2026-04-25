@@ -1,0 +1,1 @@
+Na perícia digital, refere-se a uma ferramenta que mostra a sequência de eventos do sistema de arquivos dentro de uma imagem de origem em formato gráfico.

@@ -1,0 +1,1 @@
+Registro do histórico de evidências, desde a coleta e apresentação no tribunal até o descarte.

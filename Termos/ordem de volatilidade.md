@@ -1,0 +1,1 @@
+A ordem na qual os dados voláteis devem ser recuperados de vários locais e dispositivos de armazenamento após a ocorrência de um incidente de segurança.

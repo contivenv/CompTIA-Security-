@@ -1,0 +1,1 @@
+Termo usado no direito comum dos EUA e do Reino Unido para exigir que as pessoas só sejam condenadas por crimes após a aplicação justa das leis do país.
