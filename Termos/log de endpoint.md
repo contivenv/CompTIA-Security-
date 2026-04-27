@@ -1,0 +1,1 @@
+Um destino para eventos relacionados à segurança gerados por agentes de detecção de intrusão e de malwares baseados no host.

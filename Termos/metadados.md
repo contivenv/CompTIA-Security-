@@ -1,0 +1,1 @@
+Informações armazenadas ou registradas como propriedade de um objeto, estado de um sistema ou transação.

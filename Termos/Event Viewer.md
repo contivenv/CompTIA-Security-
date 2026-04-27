@@ -1,0 +1,1 @@
+Console do Windows relacionado à exibição e exportação de eventos no formato de arquivo de log do Windows.

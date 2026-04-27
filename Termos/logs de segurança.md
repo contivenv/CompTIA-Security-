@@ -1,0 +1,1 @@
+Destino para dados de eventos relacionados ao controle de acesso, como autenticação de usuários e uso de privilégios.

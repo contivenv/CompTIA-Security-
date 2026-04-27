@@ -1,0 +1,1 @@
+Destino de dados de eventos relacionados a um aplicativo ou pacote de software específico.

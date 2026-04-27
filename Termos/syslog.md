@@ -1,0 +1,1 @@
+Protocolo de aplicativo e formato de registro de eventos que permitem que diferentes dispositivos e aplicativos de software transmitam logs ou registros de eventos a um servidor central. O syslog usa porta UDP 514, por padrão.

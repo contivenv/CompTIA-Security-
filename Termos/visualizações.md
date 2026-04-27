@@ -1,0 +1,1 @@
+Um widget que mostra registros ou métricas em um formato visual, como um gráfico ou tabela.

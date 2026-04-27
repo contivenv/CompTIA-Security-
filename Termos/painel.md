@@ -1,0 +1,1 @@
+Um console que apresenta informações selecionadas em um formato facilmente assimilável, como uma visualização.
