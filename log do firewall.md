@@ -1,0 +1,1 @@
+Um destino para dados de eventos relacionados a regras de acesso que foram configuradas para registro em log.

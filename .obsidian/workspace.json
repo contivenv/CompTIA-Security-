@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.4 Logs de aplicativos e endpoints.md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.5 Fontes de dados de rede.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.3.4 Logs de aplicativos e endpoints"
+              "title": "12.3.5 Fontes de dados de rede"
             }
           }
         ]
@@ -195,8 +195,14 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "Termos/visualizações.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.6 Capturas de pacotes.md",
+    "análise de pacotes.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.5 Fontes de dados de rede.md",
+    "logs de rede.md",
+    "log do firewall.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.4 Logs de aplicativos e endpoints.md",
+    "Dúvidas e revisão de conceitos/XDR - Ampliando a Detecção e Resposta.md",
+    "Termos/visualizações.md",
     "Termos/log de endpoint.md",
     "Termos/logs de aplicativos.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.3 Logs do sistema operacional host.md",
@@ -215,12 +221,6 @@
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1.1 Processos de resposta a incidentes.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.1 Resposta a incidentes.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.0 Explicar os conceitos de monitoramento e resposta a incidentes..md",
-    "Termos/dados de log.md",
-    "Termos/metadados.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.1 Fontes de dados, painéis e relatórios.md",
-    "Termos/painel.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3 Fontes de dados.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.2 Análise forense digital.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",

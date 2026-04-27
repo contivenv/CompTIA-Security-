@@ -1,0 +1,1 @@
+Análise dos cabeçalhos e dados de payload de um ou mais quadros no tráfego de rede registrado.

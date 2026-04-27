@@ -1,0 +1,1 @@
+Um destino para eventos de sistema e acesso gerado por um dispositivo de rede, como um switch, wireless access point ou roteador.
