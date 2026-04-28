@@ -1,0 +1,1 @@
+Um feed de threat intelligence (inteligência de ameaças) em um SIEM ==é um fluxo contínuo e automatizado de dados externos sobre ameaças cibernéticas, como IPs maliciosos, domínios, hashes de malware e assinaturas==. Ele enriquece os logs do SIEM, permitindo a detecção proativa e em tempo real de ataques conhecidos ou emergentes.
