@@ -1,0 +1,1 @@
+Registro dos servidores de email envolvidos na transferência de uma mensagem de email de um remetente para um destinatário.
