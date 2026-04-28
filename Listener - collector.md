@@ -1,0 +1,1 @@
+Dispositivo de rede que coleta ou recebe dados de log e/ou de estado advindos de outros sistemas de rede.

@@ -1,0 +1,1 @@
+Solução que fornece análise em tempo real ou quase real de alertas de segurança gerados por hardware e aplicativos de rede.

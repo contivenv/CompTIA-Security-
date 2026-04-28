@@ -1,0 +1,1 @@
+Analisar informações de várias fontes de dados de logs e eventos de segurança para poderem ser apresentadas em um formato consistente e pesquisável.
