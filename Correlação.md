@@ -1,0 +1,1 @@
+Uma função da análise de log que vincula logs e dados de estado para identificar um padrão que deve ser registrado ou alertado como um evento.

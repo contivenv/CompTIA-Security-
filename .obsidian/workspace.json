@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.1 Gerenciamento de eventos e informações de segurança.md",
+                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.4.1 Gerenciamento de eventos e informações de segurança"
+              "title": "12.4.2 Atividades de alerta e monitoramento"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "Dúvidas e revisão de conceitos/SIEM - Recebimento e Gerenciamento de Logs.md",
+    "Correlação.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.1 Gerenciamento de eventos e informações de segurança.md",
+    "Dúvidas e revisão de conceitos/SIEM - Recebimento e Gerenciamento de Logs.md",
     "normalização.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4 Ferramentas de alerta e monitoramento.md",
     "agregação de logs.md",
@@ -221,8 +223,6 @@
     "Termos/agente de entrega de email (MDA).md",
     "Analogias/Payload - ativação maliciosa dentro de um envelope bonito.md",
     "Analogias/O Caminho da Mensagem.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.5 Fontes de dados de rede.md",
-    "análise de pacotes.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
