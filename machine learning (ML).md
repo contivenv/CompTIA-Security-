@@ -1,0 +1,1 @@
+Componente de IA que permite a uma máquina desenvolver estratégias para resolver uma tarefa dado um conjunto de dados rotulado em que os recursos foram identificados manualmente mas sem quaisquer outras instruções explícitas.

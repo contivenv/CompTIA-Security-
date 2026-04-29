@@ -1,0 +1,1 @@
+Processo de ajustar as regras de detecção e correlação para reduzir a incidência de falsos-positivos e alertas de baixa prioridade.
