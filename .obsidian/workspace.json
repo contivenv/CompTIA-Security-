@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.4 Infraestrutura de monitoramento.md",
-                "mode": "preview",
+                "file": "Termos/agregação de logs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.4.4 Infraestrutura de monitoramento"
+              "title": "agregação de logs"
             }
           }
         ]
@@ -193,34 +193,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "Dúvidas e revisão de conceitos/Entendendo o NetFlow e Seus Limites.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.5 Resumo.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.6 Benchmarks.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.5 Sistemas e aplicativos de monitoramento.md",
+    "Termos/monitor de sistema.md",
+    "Termos/verificação antivírus (AV).md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.4 Infraestrutura de monitoramento.md",
-    "padrão IETF IPFIX (IP Flow Information Export).md",
-    "Netflow.md",
-    "monitor de rede.md",
+    "Dúvidas e revisão de conceitos/Entendendo o NetFlow e Seus Limites.md",
+    "Termos/padrão IETF IPFIX (IP Flow Information Export).md",
+    "Termos/Netflow.md",
+    "Termos/monitor de rede.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.3 Ajuste de alerta.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
-    "regular os alertas.md",
-    "machine learning (ML).md",
+    "Termos/regular os alertas.md",
+    "Termos/machine learning (ML).md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
     "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.2 Riscos ao planejamento de capacidade.md",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.3 Resumo.md",
     "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.1.2 Modelos de serviço em nuvem.md",
     "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.5 Unidades de negócios de segurança da informação.md",
-    "feed de threat intelligence.md",
+    "Termos/feed de threat intelligence.md",
     "Dúvidas e revisão de conceitos/UBA vs UEBA - Detectando Ameaças Internas.md",
     "Termos/threat hunting.md",
-    "Correlação.md",
+    "Termos/Correlação.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.1 Gerenciamento de eventos e informações de segurança.md",
     "Dúvidas e revisão de conceitos/SIEM - Recebimento e Gerenciamento de Logs.md",
-    "normalização.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4 Ferramentas de alerta e monitoramento.md",
-    "agregação de logs.md",
-    "Listener - collector.md",
-    "Listener/collector.md",
-    "Listener/collector 1.md",
+    "Termos/normalização.md",
     "Listener*",
     "Listener",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",

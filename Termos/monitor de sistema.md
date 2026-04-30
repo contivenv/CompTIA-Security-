@@ -1,0 +1,1 @@
+Software que rastreia a integridade dos subsistemas de um computador usando métricas relatadas pelo hardware ou sensores do sistema. Isso proporciona um serviço de alerta em caso de falhas como alta temperatura, intrusão no chassi e outras.

@@ -1,0 +1,1 @@
+Software capaz de detectar e remover infecções por vírus e (na maioria dos casos) outros tipos de malware, como worms, cavalos de Troia, rootkits, adware, spyware, crackers de senha, mapeadores de rede, ferramentas de DoS e assim por diante.
