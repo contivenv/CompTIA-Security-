@@ -1,0 +1,1 @@
+Software de auditoria que coleta informações de status e configuração de dispositivos de rede. Muitos produtos são baseados no Protocolo de Gerenciamento de Rede Simples (SNMP).

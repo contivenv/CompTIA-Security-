@@ -1,0 +1,1 @@
+Versão baseada em padrões da estrutura Netflow.

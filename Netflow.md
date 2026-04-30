@@ -1,0 +1,1 @@
+Meios desenvolvidos pela Cisco para relatar informações de fluxo de rede para um banco de dados estruturado. O NetFlow possibilita uma melhor compreensão dos fluxos de tráfego de IP usados por diferentes hosts e aplicações de rede.
