@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.1 Fontes de dados, painéis e relatórios.md",
-                "mode": "preview",
+                "file": "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.3.1 Fontes de dados, painéis e relatórios"
+              "title": "Cibersegurança Quiz 2 - Capítulo 12"
             }
           }
         ]
@@ -193,12 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3 Fontes de dados.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.1 Fontes de dados, painéis e relatórios.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.5 Sistemas e aplicativos de monitoramento.md",
+    "Questionários e simulados/1.md",
+    "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12.md",
+    "estágio do kill chain para a criação de um artefato malicioso.png",
+    "logs de autenticação de segurança do linux.png",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.0 Explicar os conceitos de monitoramento e resposta a incidentes..md",
+    "Erros em questões/Sem título",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.5 Resumo.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.6 Benchmarks.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.5 Sistemas e aplicativos de monitoramento.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3.1 Fontes de dados, painéis e relatórios.md",
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.3 Fontes de dados.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.3 Ajuste de alerta.md",
     "Termos/verificação antivírus (AV).md",
     "Termos/regular os alertas.md",
@@ -213,14 +221,10 @@
     "Termos/Netflow.md",
     "Termos/Listener - collector.md",
     "Termos/Correlação.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.5 Resumo.md",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.4 Infraestrutura de monitoramento.md",
     "Dúvidas e revisão de conceitos/Entendendo o NetFlow e Seus Limites.md",
     "machine learning (ML).md",
     "regular os alertas.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.2 Riscos ao planejamento de capacidade.md",
     "Listener*",
     "Listener",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
@@ -228,8 +232,6 @@
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
-    "Anexos/security-plus-v7-study-objectives.pdf",
-    "Anexos/security-plus-v7-study-outline.pdf",
-    "Anexos"
+    "Anexos/security-plus-v7-study-objectives.pdf"
   ]
 }
