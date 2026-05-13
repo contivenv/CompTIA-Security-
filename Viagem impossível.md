@@ -1,0 +1,1 @@
+Um possível indício de atividades mal-intencionadas em que as tentativas de autenticação são feitas a partir de diferentes locais num curto período.

@@ -1,0 +1,1 @@
+Um possível indicador de atividades maliciosas em que um arquivo ou recurso de serviço que deveria estar disponível está inacessível.

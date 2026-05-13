@@ -1,0 +1,1 @@
+Mecanismo para acesso a um computador que ignora ou subverte o método normal de autenticação.

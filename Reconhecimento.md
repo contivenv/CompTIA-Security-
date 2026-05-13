@@ -1,0 +1,1 @@
+As ações tomadas para coletar informações sobre o software ou os sistemas de computador de um indivíduo ou organização. Normalmente envolve a coleta de informações, como os tipos de sistemas e software utilizados, informações sobre a conta do usuário, tipos de dados e configuração de rede.

@@ -1,0 +1,1 @@
+Malware que cria um canal de administração remota (backdoor) para permitir que um ator de ameaça acesse e controle o host infectado.

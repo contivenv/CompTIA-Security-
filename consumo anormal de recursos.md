@@ -1,0 +1,1 @@
+Um possível indício de atividades mal-intencionadas em que o uso da CPU, memória, armazenamento e/ou rede se desvia das normas esperadas.

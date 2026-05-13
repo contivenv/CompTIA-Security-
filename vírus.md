@@ -1,0 +1,1 @@
+Código malicioso inserido em uma image (imagem) de arquivo executável. O código mal-intencionado é executado quando o arquivo é executado e pode fornecer uma área de dados do pacote, como tentar infectar outros arquivos.

@@ -1,0 +1,1 @@
+Quando um invasor usa um host comprometido (o pivô) como uma plataforma a partir da qual é possível espalhar um ataque para outros pontos da rede.

@@ -1,0 +1,1 @@
+Um meio de codificação de informações em etiquetas passivas, que podem ser energizadas e lidas por ondas de rádio a partir de um dispositivo leitor.

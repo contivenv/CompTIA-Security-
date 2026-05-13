@@ -1,0 +1,1 @@
+Qualquer tipo de ataque físico, de aplicativo ou de rede que afete a disponibilidade de um recurso gerenciado.

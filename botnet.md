@@ -1,0 +1,1 @@
+Grupo de hosts ou dispositivos que foram infectados por um programa de controle chamado bot, o qual permite que os invasores explorem os hosts para montar ataques. Também chamado de zumbi.

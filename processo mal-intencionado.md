@@ -1,0 +1,1 @@
+Processo executado sem a devida autorização do proprietário do sistema com a finalidade de danificar ou comprometer o sistema.

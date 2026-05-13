@@ -1,0 +1,1 @@
+Técnicas de engenharia social para reunir credenciais válidas para obter acesso não autorizado.

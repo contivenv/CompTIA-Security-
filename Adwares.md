@@ -1,0 +1,1 @@
+Software que registra informações sobre um computador e seu usuário. O termo é usado para descrever softwares capazes de registrar informações sobre os hábitos do usuário após obter o seu consentimento.

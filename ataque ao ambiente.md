@@ -1,0 +1,1 @@
+Ameaça física direcionada contra sistemas de energia, resfriamento ou supressão de incêndio.

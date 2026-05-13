@@ -1,0 +1,1 @@
+Software que registra informações sobre um computador e seus usuários por vezes instalado sem o consentimento destes.

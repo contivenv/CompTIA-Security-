@@ -1,0 +1,1 @@
+Um possível indicador de atividades maliciosas em que as datas ou registros de hora dos eventos não são consistentes.
