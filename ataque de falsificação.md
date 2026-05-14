@@ -1,0 +1,1 @@
+Ataque que explora a autenticação fraca para executar uma solicitação durante a sessão invadida.

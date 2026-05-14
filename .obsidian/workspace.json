@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.6 Ataques em redes sem fio (wireless).md",
+                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.3 Ataques de falsificação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2.6 Ataques em redes sem fio (wireless)"
+              "title": "13.3.3 Ataques de falsificação"
             }
           }
         ]
@@ -195,32 +195,33 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "ataque de desassociação.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.6 Ataques em redes sem fio (wireless).md",
-    "evil twin.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.5 Ataques ao sistema de nomes de domínio.md",
-    "envenenamento de DNS.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.4 Ataques on-path.md",
-    "envenenamento ARP.md",
-    "protocolo de resolução de endereços (ARP).md",
-    "Termos/ataque on-path.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.3 Ataques distribuídos de negação de serviço.md",
-    "ataque de inundação SYN.md",
-    "DoS distribuído (DDoS).md",
-    "ataque de negação de serviço (DoS).md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.2 Ataques à rede.md",
-    "pivotinge.md",
-    "Movimentação lateral.md",
-    "coleta de credenciais.md",
-    "Reconhecimento.md",
-    "ataque de rede.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.1 Ataques físicos.md",
-    "Raspagem.md",
-    "Clonagem de crachá.md",
-    "ID de radiofrequência (RFID).md",
-    "ataque ao ambiente.md",
-    "ataque físico.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2 Indicadores de ataque físico e de rede.md",
+    "server-side request forgery (falsificação de solicitação do lado do servidor - SSRF).md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.3 Ataques de falsificação.md",
+    "cross-site request forgery (falsificação de solicitação entre sites - XSRF - CSRF).md",
+    "cross-site request forgery (falsificação de solicitação entre sites - XSRF / CSRF).md",
+    "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
+    "ataque de falsificação.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.2 Ataques de repetição.md",
+    "replay attack.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.1 Ataques a aplicativos.md",
+    "escalação horizontal de privilégios.md",
+    "escalação vertical de privilégios.md",
+    "escalação de privilégios.md",
+    "remota de código.md",
+    "execução de código arbitrário.md",
+    "ataque de aplicativo.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3 Indicadores de ataque a aplicativos.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.10 Indicadores de código malicioso.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.9 Ataques criptográficos.md",
+    "ataque Birthday.md",
+    "colisão.md",
+    "ataque de downgrade.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.8 Ataques de repetição de credencial (credential replay).md",
+    "credential replay attacks.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.7 Ataques de senha.md",
+    "Password spraying (pulverização de senha).md",
+    "ataque de senha híbrida.md",
+    "ataque de dicionário.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png",
@@ -231,7 +232,6 @@
     "Listener",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
-    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf"
+    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint"
   ]
 }

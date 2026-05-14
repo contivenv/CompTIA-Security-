@@ -1,0 +1,1 @@
+Um ataque em que um invasor aproveita a confiança estabelecida entre o servidor e os recursos que pode acessar, incluindo ele mesmo.

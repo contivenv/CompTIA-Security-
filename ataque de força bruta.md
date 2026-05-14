@@ -1,0 +1,1 @@
+Tipo de ataque de senha em que um invasor usa um aplicativo para tentar exaustivamente todas as combinações alfanuméricas possíveis para quebrar senhas criptografadas.

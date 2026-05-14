@@ -1,0 +1,1 @@
+Qualquer ataque em que o invasor tente obter acesso não autorizado e usar senhas.

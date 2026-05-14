@@ -1,0 +1,1 @@
+Ataque de força bruta em que várias contas de usuário são testadas com um dicionário de senhas comuns.

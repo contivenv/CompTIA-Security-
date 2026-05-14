@@ -1,0 +1,1 @@
+Um ataque criptográfico em que o invasor explora a necessidade de compatibilidade com versões anteriores para forçar um sistema de computador a abandonar o uso de mensagens criptografadas em favor de mensagens de texto simples.

@@ -1,0 +1,1 @@
+Um script mal-intencionado hospedado no site do invasor que pode explorar uma sessão iniciada em outro site no mesmo navegador.

@@ -1,0 +1,1 @@
+Em criptografia, o ato de duas entradas de texto simples diferentes produzirem a mesma saída de texto cifrado.

@@ -1,0 +1,1 @@
+Vulnerabilidade que permite a um invasor executar seu próprio código ou módulo que explore essa vulnerabilidade.

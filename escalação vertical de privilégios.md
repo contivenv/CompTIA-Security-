@@ -1,0 +1,1 @@
+Caso em que um invasor pode executar funções que normalmente são atribuídas a usuários em posições mais elevadas e, muitas vezes, negadas explicitamente ao invasor.
