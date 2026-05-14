@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.3 Ataques de falsificação.md",
+                "file": "Termos/Adwares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.3.3 Ataques de falsificação"
+              "title": "Adwares"
             }
           }
         ]
@@ -193,35 +193,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "server-side request forgery (falsificação de solicitação do lado do servidor - SSRF).md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.3 Ataques de falsificação.md",
-    "cross-site request forgery (falsificação de solicitação entre sites - XSRF - CSRF).md",
+    "Termos/server-side request forgery (falsificação de solicitação do lado do servidor - SSRF).md",
+    "Termos/cross-site request forgery (falsificação de solicitação entre sites - XSRF - CSRF).md",
     "cross-site request forgery (falsificação de solicitação entre sites - XSRF / CSRF).md",
     "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
-    "ataque de falsificação.md",
+    "Termos/ataque de falsificação.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.2 Ataques de repetição.md",
-    "replay attack.md",
+    "Termos/replay attack.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.1 Ataques a aplicativos.md",
-    "escalação horizontal de privilégios.md",
-    "escalação vertical de privilégios.md",
-    "escalação de privilégios.md",
-    "remota de código.md",
-    "execução de código arbitrário.md",
-    "ataque de aplicativo.md",
+    "Termos/escalação horizontal de privilégios.md",
+    "Termos/escalação vertical de privilégios.md",
+    "Termos/escalação de privilégios.md",
+    "Termos/remota de código.md",
+    "Termos/execução de código arbitrário.md",
+    "Termos/ataque de aplicativo.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3 Indicadores de ataque a aplicativos.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.10 Indicadores de código malicioso.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.9 Ataques criptográficos.md",
-    "ataque Birthday.md",
-    "colisão.md",
-    "ataque de downgrade.md",
+    "Termos/ataque Birthday.md",
+    "Termos/colisão.md",
+    "Termos/ataque de downgrade.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.8 Ataques de repetição de credencial (credential replay).md",
-    "credential replay attacks.md",
+    "Termos/credential replay attacks.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.7 Ataques de senha.md",
-    "Password spraying (pulverização de senha).md",
-    "ataque de senha híbrida.md",
-    "ataque de dicionário.md",
+    "Termos/Password spraying (pulverização de senha).md",
+    "Termos/ataque de senha híbrida.md",
+    "Termos/ataque de dicionário.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png",
