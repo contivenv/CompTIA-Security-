@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.3 Ataques distribuídos de negação de serviço.md",
+                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.6 Ataques em redes sem fio (wireless).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2.3 Ataques distribuídos de negação de serviço"
+              "title": "13.2.6 Ataques em redes sem fio (wireless)"
             }
           }
         ]
@@ -195,8 +195,17 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "ataque de inundação SYN.md",
+    "ataque de desassociação.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.6 Ataques em redes sem fio (wireless).md",
+    "evil twin.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.5 Ataques ao sistema de nomes de domínio.md",
+    "envenenamento de DNS.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.4 Ataques on-path.md",
+    "envenenamento ARP.md",
+    "protocolo de resolução de endereços (ARP).md",
+    "Termos/ataque on-path.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.3 Ataques distribuídos de negação de serviço.md",
+    "ataque de inundação SYN.md",
     "DoS distribuído (DDoS).md",
     "ataque de negação de serviço (DoS).md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.2 Ataques à rede.md",
@@ -212,15 +221,6 @@
     "ataque ao ambiente.md",
     "ataque físico.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2 Indicadores de ataque físico e de rede.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.9 Indicadores de atividades maliciosas.md",
-    "Registro em log fora de ciclo.md",
-    "Logs ausentes.md",
-    "Viagem impossível.md",
-    "Uso simultâneo da sessão.md",
-    "Bloqueio da conta.md",
-    "inacessibilidade de recursos.md",
-    "conteúdo bloqueado.md",
-    "consumo anormal de recursos.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png",
