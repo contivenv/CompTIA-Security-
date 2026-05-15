@@ -1,0 +1,1 @@
+Em um aplicativo da web, dados de entrada que são executados ou validados como parte de um script ou processo em execução no servidor.

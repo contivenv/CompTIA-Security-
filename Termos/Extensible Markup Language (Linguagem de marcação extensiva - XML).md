@@ -1,0 +1,1 @@
+Um sistema para estruturar os documentos para que eles sejam legíveis por humanos e máquinas. As informações do documento são colocadas dentro de tags, que descrevem como essas informações são estruturadas.

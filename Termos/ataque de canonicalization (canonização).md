@@ -1,0 +1,1 @@
+Método de ataque em que os caracteres de entrada são codificados de forma a evadir medidas de validação de entrada vulneráveis.

@@ -1,0 +1,1 @@
+Ataque que explora fraquezas no tratamento de solicitações ou na validação de entradas para executar um código arbitrário em um navegador do cliente ou em um servidor.

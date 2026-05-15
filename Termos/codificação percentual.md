@@ -1,0 +1,1 @@
+Mecanismo para codificar caracteres como valores hexadecimais delimitados pelo sinal de porcentagem.

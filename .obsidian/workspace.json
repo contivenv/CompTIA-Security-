@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/Adwares.md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.7 Logs do servidor web.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adwares"
+              "title": "13.3.7 Logs do servidor web"
             }
           }
         ]
@@ -193,9 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.4 Resumo.md",
+    "Termos/ataque de canonicalization (canonização).md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.7 Logs do servidor web.md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.6 Análise de URL.md",
+    "Termos/codificação percentual.md",
+    "Termos/Uniform Resource Locator (Localizador padrão de recursos - URL).md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.5 Ataques de injeção de comando e diretório transversal.md",
+    "Termos/ataque de injeção.md",
+    "Termos/Directory traversal (diretório transversal).md",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.4 Ataques de injeção.md",
+    "Termos/Extensible Markup Language (Linguagem de marcação extensiva - XML).md",
+    "Termos/lado do servidor.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.3 Ataques de falsificação.md",
+    "Termos/Adwares.md",
     "Termos/server-side request forgery (falsificação de solicitação do lado do servidor - SSRF).md",
     "Termos/cross-site request forgery (falsificação de solicitação entre sites - XSRF - CSRF).md",
     "cross-site request forgery (falsificação de solicitação entre sites - XSRF / CSRF).md",
@@ -209,19 +222,6 @@
     "Termos/escalação de privilégios.md",
     "Termos/remota de código.md",
     "Termos/execução de código arbitrário.md",
-    "Termos/ataque de aplicativo.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3 Indicadores de ataque a aplicativos.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.10 Indicadores de código malicioso.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.9 Ataques criptográficos.md",
-    "Termos/ataque Birthday.md",
-    "Termos/colisão.md",
-    "Termos/ataque de downgrade.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.8 Ataques de repetição de credencial (credential replay).md",
-    "Termos/credential replay attacks.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.7 Ataques de senha.md",
-    "Termos/Password spraying (pulverização de senha).md",
-    "Termos/ataque de senha híbrida.md",
-    "Termos/ataque de dicionário.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png",
