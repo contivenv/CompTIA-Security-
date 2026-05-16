@@ -1,0 +1,1 @@
+Tipo de ataque que subverte políticas e sistemas de segurança de rede para transferir dados sem autorização ou detecção.

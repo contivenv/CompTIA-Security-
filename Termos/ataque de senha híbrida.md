@@ -1,0 +1,1 @@
+Ataque que usa métodos variados, incluindo ataques de dicionário, tabela arco-íris e força bruta, para tentar decifrar uma senha.

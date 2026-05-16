@@ -1,0 +1,1 @@
+Ataque a infraestrutura de cabeamento, dispositivos de hardware ou ambiente das instalações que hospedam uma rede.

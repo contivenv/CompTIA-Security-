@@ -1,0 +1,1 @@
+Malware que tenta extorquir a vítima bloqueando o funcionamento normal de um computador e/ou criptografando os arquivos da vítima e exigindo pagamento.

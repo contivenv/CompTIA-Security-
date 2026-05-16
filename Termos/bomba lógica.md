@@ -1,0 +1,1 @@
+Programa ou script mal-intencionado configurado para ser executado em circunstâncias específicas ou em resposta a um evento definido.

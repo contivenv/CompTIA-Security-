@@ -1,0 +1,1 @@
+A prática de explorar falhas em um sistema operacional ou outro aplicativo para obter um nível de acesso maior que o destinado ao usuário ou aplicativo.

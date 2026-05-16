@@ -1,0 +1,1 @@
+Processo pelo qual um invasor é capaz de se mover de uma região de um ambiente de computação a outra.

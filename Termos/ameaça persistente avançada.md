@@ -1,0 +1,1 @@
+A capacidade de um invasor de obter, manter e diversificar o acesso a sistemas de rede usando explorações e malware.

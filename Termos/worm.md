@@ -1,0 +1,1 @@
+Tipo de malware que se replica entre os processos na memória do sistema e pode se espalhar pelas conexões de rede cliente/servidor.

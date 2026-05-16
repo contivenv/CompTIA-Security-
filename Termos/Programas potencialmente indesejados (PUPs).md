@@ -1,0 +1,1 @@
+Software que não pode ser definitivamente classificado como mal-intencionado, mas que pode não ter sido escolhido ou desejado pelo usuário.

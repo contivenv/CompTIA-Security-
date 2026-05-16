@@ -1,0 +1,1 @@
+Malware que assume o controle dos recursos do computador para criar criptomoedas.

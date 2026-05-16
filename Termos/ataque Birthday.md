@@ -1,0 +1,1 @@
+Tipo de ataque de senha que explora fraquezas nos algoritmos matemáticos usados para criptografar senhas, a fim de aproveitar a probabilidade de diferentes entradas de senha produzirem a mesma saída criptografada.

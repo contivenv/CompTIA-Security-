@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "logs de autenticação de segurança do linux"
             }
+          },
+          {
+            "id": "6011202b149378ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,44 +206,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "6011202b149378ba",
   "lastOpenFiles": [
-    "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.6 Benchmarks.md",
     "Anexos/logs de autenticação de segurança do linux.png",
-    "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12.md",
-    "Questionários e simulados/1.md",
+    "conflict-files-obsidian-git.md",
+    "cross-site request forgery (falsificação de solicitação entre sites - XSRF / CSRF).md",
+    "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
+    "Termos/worm.md",
+    "Termos/vírus.md",
+    "Termos/troia.md",
+    "Termos/shellcode.md",
+    "Termos/server-side request forgery (falsificação de solicitação do lado do servidor - SSRF).md",
+    "Termos/rootkit.md",
+    "Termos/replay attack.md",
+    "Termos/remota de código.md",
+    "Termos/protocolo de resolução de endereços (ARP).md",
+    "Termos/processo mal-intencionado.md",
+    "Termos/pivotinge.md",
+    "Termos/mineração de criptomoedas.md",
+    "Termos/lado do servidor.md",
+    "Termos/indicador de comprometimento (IoC).md",
+    "Termos/inacessibilidade de recursos.md",
+    "Termos/execução de código arbitrário.md",
+    "Termos/evil twin.md",
+    "Termos/escalação vertical de privilégios.md",
+    "Termos/escalação horizontal de privilégios.md",
+    "Termos/escalação de privilégios.md",
+    "Termos/envenenamento de DNS.md",
+    "Termos/envenenamento ARP.md",
+    "Termos/cross-site request forgery (falsificação de solicitação entre sites - XSRF - CSRF).md",
+    "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
+    "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png",
+    "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12",
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
+    "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.5 Sistemas e aplicativos de monitoramento.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.3 Ajuste de alerta.md",
-    "Termos/verificação antivírus (AV).md",
-    "Termos/regular os alertas.md",
-    "Termos/padrão IETF IPFIX (IP Flow Information Export).md",
-    "Termos/normalização.md",
-    "Termos/monitor de sistema.md",
-    "Termos/monitor de rede.md",
-    "Termos/machine learning (ML).md",
-    "Termos/gerenciamento de eventos e informações de segurança (SIEM).md",
-    "Termos/feed de threat intelligence.md",
-    "Termos/agregação de logs.md",
-    "Termos/Netflow.md",
-    "Termos/Listener - collector.md",
-    "Termos/Correlação.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.5 Resumo.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.4 Infraestrutura de monitoramento.md",
-    "Dúvidas e revisão de conceitos/Entendendo o NetFlow e Seus Limites.md",
-    "machine learning (ML).md",
-    "regular os alertas.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
-    "E-book CompTIA Security+/7.0 Explicar os conceitos de resiliência e segurança do local/7.2.8 Ensaio de resiliência.md",
     "Listener*",
     "Listener",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
     "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
     "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint",
-    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
-    "Anexos/pt-br_security-plus-v7.pdf",
-    "Anexos/security-plus-v7-study-objectives.pdf",
-    "Anexos/security-plus-v7-study-outline.pdf"
+    "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf"
   ]
 }

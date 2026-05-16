@@ -1,0 +1,1 @@
+Fazer uma cópia de um crachá de acesso sem contato.

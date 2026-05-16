@@ -1,0 +1,1 @@
+Ataque em que o invasor intercepta dados de autenticação e os reutiliza para tentar restabelecer uma sessão.

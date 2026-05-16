@@ -1,0 +1,1 @@
+Um possível indicador de atividades maliciosas onde eventos ou arquivos de log são excluídos ou adulterados.

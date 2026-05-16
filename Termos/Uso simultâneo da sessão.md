@@ -1,0 +1,1 @@
+Possível indício de atividades mal-intencionadas quando uma conta iniciou múltiplas sessões em um ou mais hosts.

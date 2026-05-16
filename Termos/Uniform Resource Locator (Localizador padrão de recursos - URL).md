@@ -1,0 +1,1 @@
+Esquema de endereçamento no âmbito de aplicativos para TCP/IP, permitindo o endereçamento de recursos legíveis por humanos. Por exemplo: protocolo://servidor/arquivo, onde "protocolo" representa o tipo de recurso (HTTP, FTP), "servidor" é o nome do computador(www.microsoft.com)e "arquivo" é o nome do recurso que você deseja acessar.

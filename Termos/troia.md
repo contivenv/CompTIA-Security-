@@ -1,0 +1,1 @@
+Programa de software mal-intencionado escondido dentro de um software aparentemente inócuo. Normalmente, o cavalo de Troia é usado para tentar comprometer a segurança do computador de destino.

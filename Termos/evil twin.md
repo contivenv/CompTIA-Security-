@@ -1,0 +1,1 @@
+Um ponto de acesso sem fio que leva o usuário a acreditar que se trata de um ponto de acesso de rede legítimo.

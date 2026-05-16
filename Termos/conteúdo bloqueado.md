@@ -1,0 +1,1 @@
+Um possível indicador de atividades maliciosas em que os registros de auditoria mostram tentativas não autorizadas de ler ou copiar um arquivo ou outros dados.

@@ -1,0 +1,1 @@
+Falsificação de quadros que visa desconectar uma estação wireless e tentar obter dados de autenticação para decifrá-los.

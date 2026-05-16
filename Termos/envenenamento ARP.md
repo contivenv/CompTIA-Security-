@@ -1,0 +1,1 @@
+Um ataque baseado em rede no qual um invasor com acesso ao segmento-alvo da rede local redireciona um endereço IP ao endereço MAC de um computador que não é o destinatário pretendido. Pode ser usado para executar uma variedade de ataques, incluindo DoS, falsificação (spoofing) e on-path (anteriormente conhecido como man-in-the-middle).

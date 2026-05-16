@@ -1,0 +1,1 @@
+Infraestrutura de hosts e serviços com os quais os invasores direcionam, distribuem e controlam malware em botnets.

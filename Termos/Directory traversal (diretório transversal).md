@@ -1,0 +1,1 @@
+Um ataque a aplicativos que permite acesso a comandos, arquivos e diretórios que podem ou não estar conectados ao diretório raiz do documento da Web.

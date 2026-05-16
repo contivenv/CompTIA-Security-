@@ -1,0 +1,1 @@
+Ataque em que um invasor injeta registros de recursos falsos em um cache de cliente ou servidor para redirecionar um nome de domínio para um endereço IP da escolha do invasor.

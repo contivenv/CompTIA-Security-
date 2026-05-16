@@ -1,0 +1,1 @@
+Quando um usuário acessa ou modifica recursos específicos aos quais não tem direito.

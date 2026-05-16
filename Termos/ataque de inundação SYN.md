@@ -1,0 +1,1 @@
+Ataque DoS em que o invasor envia várias solicitações SYN a um servidor-alvo na esperança de consumir recursos suficientes para impedir a transferência de tráfego legítimo.

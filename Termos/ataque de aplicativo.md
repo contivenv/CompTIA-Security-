@@ -1,0 +1,1 @@
+Ataque direcionado contra uma vulnerabilidade de codificação, implementação ou plataforma no sistema operacional ou software de aplicativo.

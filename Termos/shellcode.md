@@ -1,0 +1,1 @@
+Bloco leve de código mal-intencionado que explora uma vulnerabilidade de software para obter acesso inicial a um sistema da vítima.

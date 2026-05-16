@@ -1,0 +1,1 @@
+Um protocolo de comunicações de grupo que permite aos usuários conversar, enviar mensagens privadas e compartilhar arquivos.

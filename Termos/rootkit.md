@@ -1,0 +1,1 @@
+Classe de malware que modifica os arquivos do sistema, geralmente no âmbito do kernel, para ocultar sua presença.

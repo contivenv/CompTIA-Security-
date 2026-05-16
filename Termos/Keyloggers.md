@@ -1,0 +1,1 @@
+Software ou hardware mal-intencionado que pode registrar as teclas digitadas pelo usuário.

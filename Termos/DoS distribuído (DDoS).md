@@ -1,0 +1,1 @@
+Um ataque que usa vários hosts comprometidos (uma botnet) para sobrecarregar um serviço com tráfego de respostas ou solicitações.

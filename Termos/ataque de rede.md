@@ -1,0 +1,1 @@
+Ataque direcionado contra uma infraestrutura de rede cabeada e/ou wireless, incluindo táticas como reconhecimento, negação de serviço, coleta de credenciais, on-path, escalação de privilégios e exfiltração de dados.

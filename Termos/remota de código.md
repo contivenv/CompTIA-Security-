@@ -1,0 +1,1 @@
+Vulnerabilidade que permite a um invasor transmitir código de um host remoto para execução em um host-alvo ou em um módulo que explora tal vulnerabilidade.

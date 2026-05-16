@@ -1,0 +1,1 @@
+Política que impede o acesso a uma conta sob certas condições, como um número excessivo de tentativas de autenticação malsucedidas.

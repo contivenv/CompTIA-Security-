@@ -1,0 +1,1 @@
+Duplicar um cartão de acesso por aproximação copiando seu token de acesso e programando um novo cartão com os mesmos dados.

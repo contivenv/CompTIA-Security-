@@ -1,0 +1,1 @@
+Ataque que usa um token de autenticação capturado para iniciar uma sessão não autorizada sem ter que descobrir a senha em texto simples de uma conta.

@@ -1,0 +1,1 @@
+Tipo de ataque de senha que compara senhas criptografadas com uma lista predeterminada de possíveis valores de senha.

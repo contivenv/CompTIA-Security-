@@ -1,0 +1,1 @@
+Mecanismo de transmissão pelo qual o endereço MAC do hardware de uma interface é combinado a um endereço IP em um segmento de rede local.

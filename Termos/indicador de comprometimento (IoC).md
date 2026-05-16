@@ -1,0 +1,1 @@
+Um sinal de que um ativo ou rede foi atacado ou está atualmente sob ataque.
