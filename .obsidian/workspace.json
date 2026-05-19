@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "13.1.9 Indicadores de atividades maliciosas"
             }
+          },
+          {
+            "id": "23033dbea08b6289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "23033dbea08b6289",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.9 Indicadores de atividades maliciosas.md",
+    "conflict-files-obsidian-git.md",
+    "Anexos/logs de autenticação de segurança do linux.png",
+    "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2 Indicadores de ataque físico e de rede.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.2 Ataques à rede.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.1 Ataques físicos.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.9 Indicadores de atividades maliciosas.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.8 TTPs e IoCs.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.7 Ransomware, Crypto-Malware e bombas lógicas.md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.6 Rootkits.md",
@@ -220,7 +238,6 @@
     "Termos/Uniform Resource Locator (Localizador padrão de recursos - URL).md",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.5 Ataques de injeção de comando e diretório transversal.md",
     "Termos/ataque de injeção.md",
-    "Termos/Directory traversal (diretório transversal).md",
     "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
