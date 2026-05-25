@@ -1,0 +1,1 @@
+Líderes e especialistas do ramo que são responsáveis por definir políticas, procedimentos e padrões de um domínio ou escopo específico.

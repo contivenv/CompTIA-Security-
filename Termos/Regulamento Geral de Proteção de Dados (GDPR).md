@@ -1,0 +1,1 @@
+Disposições e requisitos que protegem os dados pessoais de cidadãos da União Europeia (UE). As transferências de dados pessoais para fora do mercado único da União Europeia são restritas, a menos que protegidas por regulamentos semelhantes, como os requisitos do Privacy Shield dos EUA.

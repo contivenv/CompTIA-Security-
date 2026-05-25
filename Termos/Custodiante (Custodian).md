@@ -1,0 +1,1 @@
+Indivíduo responsável por gerenciar o sistema no qual os ativos de dados são armazenados, bem como impor medidas de controle de acesso, criptografia e backup/recuperação.

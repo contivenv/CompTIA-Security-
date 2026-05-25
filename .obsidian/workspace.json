@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.9 Indicadores de atividades maliciosas.md",
+                "file": "Termos/Responsável (Owner).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.1.9 Indicadores de atividades maliciosas"
+              "title": "Responsável (Owner)"
             }
           }
         ]
@@ -193,36 +193,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3499ad2257af4b3a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.9 Indicadores de atividades maliciosas.md",
-    "conflict-files-obsidian-git.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
+    "Termos/Custodiante (Custodian).md",
+    "Termos/Processador (Processor).md",
+    "Termos/Controlador (Controller).md",
+    "Termos/Responsável (Owner).md",
+    "Termos/comitês de governança.md",
+    "Termos/conselhos de governança.md",
+    "Termos/governança.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
+    "Termos/Regulamento Geral de Proteção de Dados (GDPR).md",
+    "Termos/Lei Sarbanes-Oxley (SOX).md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
+    "Termos/Padrões.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.2 Procedimentos.md",
+    "Termos/onboarding.md",
+    "Termos/Procedimentos.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
+    "Termos/Diretrizes.md",
+    "Termos/Ciclo de Vida do Desenvolvimento de Software (SDLC).md",
+    "Termos/Recuperação de Desastres.md",
+    "Termos/Planos de Continuidade **de Negócios e Continuidade de Operações (COOP)**.md",
+    "Termos/Políticas de Segurança da Informação.md",
+    "Termos/Política de Uso Aceitável (AUP).md",
+    "Termos/políticas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1 Políticas, normas e procedimentos.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2 Indicadores de ataque físico e de rede.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.2 Ataques à rede.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.2.1 Ataques físicos.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.8 TTPs e IoCs.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.7 Ransomware, Crypto-Malware e bombas lógicas.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.6 Rootkits.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.5 Cavalos de troia por acesso remoto e backdoors.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.4 Spyware e keyloggers.md",
-    "Termos/pharming.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.3 Worms de computador e malware fileless.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.2 Vírus de computador.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1.1 Classificação de malware.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.1 Indicadores de ataques de malware.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.0 Analisar indicadores de atividades mal-intencionadas.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.4 Resumo.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.7 Logs do servidor web.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.6 Análise de URL.md",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes./12.4.2 Atividades de alerta e monitoramento.md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.2 Ataques de repetição.md",
-    "Termos/ataque de canonicalization (canonização).md",
-    "Termos/codificação percentual.md",
-    "Termos/Uniform Resource Locator (Localizador padrão de recursos - URL).md",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas/13.3.5 Ataques de injeção de comando e diretório transversal.md",
-    "Termos/ataque de injeção.md",
     "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
@@ -233,7 +234,6 @@
     "Listener*",
     "Listener",
     "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos.",
-    "E-book CompTIA Security+/10.0 Avaliar os recursos de segurança do endpoint"
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos."
   ]
 }

@@ -1,0 +1,1 @@
+Conjunto de regras estritamente aplicável que determina como uma tarefa deve ser concluída.

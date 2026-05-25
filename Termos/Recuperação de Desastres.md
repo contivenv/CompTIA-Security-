@@ -1,0 +1,1 @@
+Um plano documentado e com recursos que mostra as ações e responsabilidades que devem ser usadas em resposta a incidentes críticos.

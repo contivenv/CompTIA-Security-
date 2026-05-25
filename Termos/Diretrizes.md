@@ -1,0 +1,1 @@
+Recomendações de boas práticas e conselhos para itens de configuração em que políticas e padrões detalhados e estritamente aplicáveis são impraticáveis.

@@ -1,0 +1,1 @@
+Executivos seniores e intervenientes externos com responsabilidade de definir a estratégia e garantir a conformidade.

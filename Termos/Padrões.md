@@ -1,0 +1,1 @@
+Resultado esperado ou estado de uma tarefa que foi executada de acordo com as políticas e procedimentos. Os padrões podem ser determinados internamente ou medidos em relação a parâmetros externos.

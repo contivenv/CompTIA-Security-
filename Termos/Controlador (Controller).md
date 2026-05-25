@@ -1,0 +1,1 @@
+Nos regulamentos de privacidade, a entidade que determina por que e como os dados pessoais são coletados, armazenados e usados.

@@ -1,0 +1,1 @@
+Cargo sênior (executivo) com responsabilidade final por manter a confidencialidade, integridade e disponibilidade de um ativo de informação.

@@ -1,0 +1,1 @@
+Instruções detalhadas para realizar uma tarefa de forma a manter a conformidade com políticas e padrões.

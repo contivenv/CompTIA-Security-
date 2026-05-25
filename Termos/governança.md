@@ -1,0 +1,1 @@
+Criação e monitoramento de políticas e procedimentos eficazes para gerenciar ativos, como dados, e garantir a conformidade com os regulamentos do setor e a legislação local, nacional e global.

@@ -1,0 +1,1 @@
+Uma lei promulgada em 2002 que dita os requisitos para o armazenamento e retenção de documentos relacionados às operações financeiras e comerciais de uma organização.

@@ -1,0 +1,1 @@
+Coleção de processos que permitem a uma organização manter operações comerciais normais diante de algum evento adverso.

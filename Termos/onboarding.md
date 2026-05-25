@@ -1,0 +1,1 @@
+O processo de integração de um novo funcionário, prestador de serviços ou fornecedor.

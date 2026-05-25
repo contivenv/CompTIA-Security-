@@ -1,0 +1,1 @@
+Na regulamentação de privacidade, trata-se de uma entidade à qual foi confiada uma cópia dos dados pessoais para realizar o armazenamento e/ou análise em nome do coletor de dados.

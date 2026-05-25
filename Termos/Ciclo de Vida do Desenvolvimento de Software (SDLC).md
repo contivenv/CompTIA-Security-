@@ -1,0 +1,1 @@
+Processos de planejamento, análise, projeto, implementação e manutenção que geralmente regem o desenvolvimento de software e sistemas.

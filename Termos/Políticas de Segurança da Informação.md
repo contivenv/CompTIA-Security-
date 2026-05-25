@@ -1,0 +1,1 @@
+Documento ou série de documentos respaldados pela gerência sênior e que detalha os requisitos para proteger os ativos de tecnologia e de informação contra ameaças e uso indevido.
