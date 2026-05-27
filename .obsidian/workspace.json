@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/Responsável (Owner).md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Responsável (Owner)"
+              "title": "14.1.5 Governança e responsabilidade"
             }
           }
         ]
@@ -193,34 +193,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.2 Procedimentos.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
+    "Planos de Continuidade de Negócios e Continuidade de Operações (COOP).md",
+    "Termos/Políticas de Segurança da Informação.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1 Políticas, normas e procedimentos.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.0 Resumir conceitos de governança de segurança.md",
+    "Termos/Responsável (Owner).md",
     "Termos/Custodiante (Custodian).md",
     "Termos/Processador (Processor).md",
     "Termos/Controlador (Controller).md",
-    "Termos/Responsável (Owner).md",
     "Termos/comitês de governança.md",
     "Termos/conselhos de governança.md",
     "Termos/governança.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
     "Termos/Regulamento Geral de Proteção de Dados (GDPR).md",
     "Termos/Lei Sarbanes-Oxley (SOX).md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
     "Termos/Padrões.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.2 Procedimentos.md",
     "Termos/onboarding.md",
     "Termos/Procedimentos.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
     "Termos/Diretrizes.md",
     "Termos/Ciclo de Vida do Desenvolvimento de Software (SDLC).md",
     "Termos/Recuperação de Desastres.md",
     "Termos/Planos de Continuidade **de Negócios e Continuidade de Operações (COOP)**.md",
-    "Termos/Políticas de Segurança da Informação.md",
-    "Termos/Política de Uso Aceitável (AUP).md",
-    "Termos/políticas.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1 Políticas, normas e procedimentos.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
