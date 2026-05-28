@@ -1,0 +1,1 @@
+Recursos e outros serviços que devem estar disponíveis e em execução para que um serviço seja iniciado.

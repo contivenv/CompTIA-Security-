@@ -1,0 +1,1 @@
+Pessoa que tem interesse comercial no resultado de um projeto ou está ativamente envolvida no seu trabalho.

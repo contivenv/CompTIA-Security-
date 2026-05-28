@@ -1,0 +1,1 @@
+Prática de garantir que os ativos que compõem um projeto sejam gerenciados detalhadamente quando é necessário fazer alterações. Também conhecido como controle de origem.
