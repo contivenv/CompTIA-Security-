@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.4 Documentação e controle de versão.md",
-                "mode": "source",
+                "file": "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.2.4 Documentação e controle de versão"
+              "title": "14.1.5 Governança e responsabilidade"
             }
           }
         ]
@@ -195,24 +195,24 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.1 Programas de gestão de mudanças.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.2 Mudanças permitidas e proibidas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.3 Reinicializações, dependências e tempo de inatividade.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3 Automação e orquestração.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.4 Documentação e controle de versão.md",
-    "controle de versão.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.3 Reinicializações, dependências e tempo de inatividade.md",
-    "dependências.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.2 Mudanças permitidas e proibidas.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.1 Programas de gestão de mudanças.md",
-    "stakeholders.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.2 Procedimentos.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
-    "Planos de Continuidade de Negócios e Continuidade de Operações (COOP).md",
-    "Termos/Políticas de Segurança da Informação.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1 Políticas, normas e procedimentos.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.0 Resumir conceitos de governança de segurança.md",
+    "controle de versão.md",
+    "dependências.md",
+    "stakeholders.md",
+    "Planos de Continuidade de Negócios e Continuidade de Operações (COOP).md",
+    "Termos/Políticas de Segurança da Informação.md",
     "Termos/Responsável (Owner).md",
     "Termos/Custodiante (Custodian).md",
     "Termos/Processador (Processor).md",
