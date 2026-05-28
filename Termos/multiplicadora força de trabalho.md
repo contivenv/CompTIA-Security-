@@ -1,0 +1,1 @@
+Ferramenta ou automatização que aumenta a produtividade dos funcionários, permitindo que eles executem mais tarefas com o mesmo padrão de qualidade por unidade de tempo.

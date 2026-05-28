@@ -1,0 +1,1 @@
+Componente ou sistema que causaria uma interrupção completa de um serviço se ele falhasse.

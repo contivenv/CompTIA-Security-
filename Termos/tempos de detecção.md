@@ -1,0 +1,1 @@
+Tempo decorrido entre a ocorrência de um incidente e a implementação de uma resposta.

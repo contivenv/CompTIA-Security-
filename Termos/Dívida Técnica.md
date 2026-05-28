@@ -1,0 +1,1 @@
+Os custos decorrentes de manter-se um sistema ou produto ineficaz, em vez de substituí-lo por um mais bem projetado.

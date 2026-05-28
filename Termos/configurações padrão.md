@@ -1,0 +1,1 @@
+Em uma arquitetura IaC, a propriedade de que uma ação de automação ou orquestração sempre produz o mesmo resultado, independentemente do estado anterior do componente.
