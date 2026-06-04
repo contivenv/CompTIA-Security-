@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.2 Implementação de automação e orquestração.md",
+                "file": "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.1 Sistemas integrados.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.3.2 Implementação de automação e orquestração"
+              "title": "6.2.1 Sistemas integrados"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RTO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 511.5
   },
   "right": {
     "id": "f99067273165fa13",
@@ -195,10 +195,19 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.7 Segurança da porta.md",
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.6 Superfície de ataque.md",
+    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.2.5 proxy server (servidor proxy).md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.2 Tipos funcionais de controle de segurança.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.1 Categorias de controle de segurança.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2 Controles de segurança.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1 Parâmetros de referência para a segurança dos protocolos de aplicativos.md",
+    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
+    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.2 Implementação de automação e orquestração.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.1 Automação e scripts.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3 Automação e orquestração.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.4 Documentação e controle de versão.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.2 Implementação de automação e orquestração.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.4 Resumo.md",
     "Termos/tempos de detecção.md",
     "Termos/configurações padrão.md",
@@ -212,15 +221,6 @@
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.2 Mudanças permitidas e proibidas.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.3 Reinicializações, dependências e tempo de inatividade.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.2 Procedimentos.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.0 Resumir conceitos de governança de segurança.md",
-    "Termos/controle de versão.md",
-    "Termos/dependências.md",
-    "Termos/stakeholders.md",
-    "Termos/Planos de Continuidade de Negócios e Continuidade de Operações (COOP).md",
-    "Termos/Políticas de Segurança da Informação.md",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
