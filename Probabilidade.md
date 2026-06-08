@@ -1,0 +1,1 @@
+Em matéria de análise qualitativa de risco, trata-se da chance de um evento ocorrer, expressa em uma escala determinada subjetivamente como alta ou baixa.

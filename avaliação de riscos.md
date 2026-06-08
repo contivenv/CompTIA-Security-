@@ -1,0 +1,1 @@
+Processo de identificar riscos, analisá-los, desenvolver uma estratégia de resposta a eles e mitigar seu impacto futuro.

@@ -1,0 +1,1 @@
+Dentro da avaliação geral de riscos, trata-se do processo específico de listar fontes de risco devido a ameaças e vulnerabilidades.

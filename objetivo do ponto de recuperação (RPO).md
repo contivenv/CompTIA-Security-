@@ -1,0 +1,1 @@
+Período mais longo pelo qual uma organização pode tolerar que os dados perdidos sejam irrecuperáveis.

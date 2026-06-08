@@ -1,0 +1,1 @@
+Processo abrangente de avaliar, medir e mitigar os inúmeros riscos que ameaçam uma organização.

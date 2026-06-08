@@ -1,0 +1,1 @@
+Método numérico que é usado para avaliar a probabilidade e o impacto do risco e medir o impacto.

@@ -1,0 +1,1 @@
+Na mitigação de riscos, a resposta de mover ou compartilhar a responsabilidade do risco com outra entidade, como a compra de seguro de cibersegurança.

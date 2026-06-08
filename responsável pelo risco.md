@@ -1,0 +1,1 @@
+Indivíduo responsável por desenvolver e implementar uma estratégia de resposta a riscos para um risco documentado em um registro de riscos.

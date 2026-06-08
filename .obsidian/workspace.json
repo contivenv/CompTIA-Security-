@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/6.0 Arquitetura de rede em nuvem segura/6.2.1 Sistemas integrados.md",
+                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2.1 Sistemas integrados"
+              "title": "15.0 Explicar processos de gestão de riscos"
             }
           }
         ]
@@ -53,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RTO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Computação em núvem"
+              "title": "Links inversos para 15.0 Explicar processos de gestão de riscos"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/Computação em núvem.md",
+                "file": "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.3 Ataques a aplicativos Web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Computação em núvem"
+              "title": "Sumário de 8.2.3 Ataques a aplicativos Web"
             }
           },
           {
@@ -167,11 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E-book CompTIA Security+/8.0 Vulnerabilidades de dispositivos e sistemas operacionais/8.2.3 Ataques a aplicativos Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 8.2.3 Ataques a aplicativos Web"
             }
           }
         ],
@@ -195,32 +196,33 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.7 Segurança da porta.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.1.6 Superfície de ataque.md",
-    "E-book CompTIA Security+/5.0 Proteger a arquitetura de rede corporativa/5.2.5 proxy server (servidor proxy).md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.2 Tipos funcionais de controle de segurança.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.1 Categorias de controle de segurança.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2 Controles de segurança.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.1 Parâmetros de referência para a segurança dos protocolos de aplicativos.md",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos./11.0 Aprimorar os recursos de segurança de aplicativos..md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.2 Implementação de automação e orquestração.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3.1 Automação e scripts.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.3 Automação e orquestração.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.4 Documentação e controle de versão.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.4 Resumo.md",
-    "Termos/tempos de detecção.md",
-    "Termos/configurações padrão.md",
-    "Termos/Dívida Técnica.md",
-    "Termos/Ponto Único de Falha.md",
-    "Termos/multiplicadora força de trabalho.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.1 Políticas.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1 Políticas, normas e procedimentos.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.3 Normas.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2.1 Programas de gestão de mudanças.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.2 Gerenciamento de mudanças.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.5 Governança e responsabilidade.md",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança/14.1.4 Ambiente jurídico.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2 Conceitos de gerenciamento de fornecedores.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
+    "tempo médio de reparo (MTTR).md",
+    "tempo médio entre falhas (MTBF).md",
+    "objetivo do ponto de recuperação (RPO).md",
+    "Tempo de recuperação do trabalho (Work Recovery Time, WRT).md",
+    "objetivo do tempo de recuperação (RTO).md",
+    "tempo máximo tolerável de inatividade (MTD).md",
+    "função essencial da missão (MEF).md",
+    "análise de impacto nos negócios (BIA).md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.3 Processos de gestão de risco.md",
+    "reporte de riscos.md",
+    "tolerância ao risco.md",
+    "apetite ao risco.md",
+    "responsável pelo risco.md",
+    "Indicadores-chave de risco (KRIs).md",
+    "matriz de risco do tipo heat map.md",
+    "registro de riscos.md",
+    "gestão de riscos corporativos (ERM).md",
+    "Impacto.md",
+    "Probabilidade.md",
+    "gerenciamento.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
+    "risco residual.md",
+    "isenção de risco.md",
+    "aceitação de risco.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
@@ -233,7 +235,6 @@
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Listener*",
     "Listener",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.",
-    "E-book CompTIA Security+/11.0 Aprimorar os recursos de segurança de aplicativos."
+    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes."
   ]
 }

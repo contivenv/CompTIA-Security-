@@ -1,0 +1,1 @@
+Na mitigação de riscos, trata-se da prática de cessar a atividade que apresenta risco.

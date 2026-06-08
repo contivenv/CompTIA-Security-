@@ -1,0 +1,1 @@
+Valor que seria perdido em uma única ocorrência de um determinado fator de risco.

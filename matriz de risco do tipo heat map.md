@@ -1,0 +1,1 @@
+Tabela gráfica para consulta das partes interessadas que indica a probabilidade e o impacto dos fatores de risco identificados para um fluxo de trabalho, projeto ou departamento.

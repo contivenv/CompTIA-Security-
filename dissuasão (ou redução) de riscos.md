@@ -1,0 +1,1 @@
+Em mitigação de riscos, a resposta através da implantação de controles de segurança para reduzir a probabilidade e/ou o impacto de um cenário de ameaça.

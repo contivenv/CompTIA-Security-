@@ -1,0 +1,1 @@
+Atividade comercial ou organizacional crítica demais para ser interrompida por mais de algumas horas, ou de todo.

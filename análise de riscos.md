@@ -1,0 +1,1 @@
+Processo para qualificar ou quantificar a probabilidade e o impacto de um fator.

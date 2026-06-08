@@ -1,0 +1,1 @@
+Determina os limites que separam diferentes níveis de risco.

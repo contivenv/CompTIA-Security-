@@ -1,0 +1,1 @@
+Tempo máximo permitido para restaurar um sistema após um evento de falha.

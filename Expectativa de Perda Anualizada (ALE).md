@@ -1,0 +1,1 @@
+Custo total de um risco para uma organização a cada ano. É determinada ao multiplicar a SLE pela taxa anual de ocorrência (ARO).

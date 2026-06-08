@@ -1,0 +1,1 @@
+Atividade sistemática que identifica os riscos organizacionais e determina seu efeito nas operações essenciais em curso.

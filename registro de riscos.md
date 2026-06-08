@@ -1,0 +1,1 @@
+Documento que destaca os resultados das avaliações de risco em um formato facilmente compreensível (como um quadro com sinais em verde, amarelo e vermelho). Seu objetivo é fazer com que os gerentes de departamento e técnicos entendam os riscos associados aos fluxos de trabalho que gerenciam.

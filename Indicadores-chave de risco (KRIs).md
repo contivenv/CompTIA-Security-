@@ -1,0 +1,1 @@
+Método pelo qual os riscos emergentes são identificados e analisados para que as mudanças possam ser adotadas de modo a evitar proativamente a ocorrência de problemas.

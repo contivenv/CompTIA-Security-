@@ -1,0 +1,1 @@
+Gravidade do risco, se concretizado, medida por fatores como o escopo, valor do ativo ou impactos financeiros do evento.

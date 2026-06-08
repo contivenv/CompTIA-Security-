@@ -1,0 +1,1 @@
+A resposta de determinar que um risco está dentro do que é aceitável pela organização e que nenhuma contramedida além do monitoramento contínuo é necessária.

@@ -1,0 +1,1 @@
+A resposta de reduzir o risco para se encaixar dentro da disposição de uma organização em aceitar riscos.

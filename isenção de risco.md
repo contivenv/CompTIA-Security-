@@ -1,0 +1,1 @@
+Categoria de gestão de riscos que aceita um fator de risco não mitigado.

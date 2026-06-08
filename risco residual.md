@@ -1,0 +1,1 @@
+Risco que permanece mesmo após os controles serem implementados.

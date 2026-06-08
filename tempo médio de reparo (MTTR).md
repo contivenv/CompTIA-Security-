@@ -1,0 +1,1 @@
+Métrica que representa o tempo médio necessário para que um dispositivo ou componente seja reparado, substituído ou recuperado de uma falha.

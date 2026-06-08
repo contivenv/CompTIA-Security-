@@ -1,0 +1,1 @@
+Período mais longo pelo qual um processo pode ficar inoperante sem causar falha irreversível para a empresa.

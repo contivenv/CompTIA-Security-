@@ -1,0 +1,1 @@
+Resumo periódico de informações relevantes sobre os riscos atuais de um projeto. Proporciona uma visão geral resumida dos riscos conhecidos e percebidos, bem como de seu impacto na organização.

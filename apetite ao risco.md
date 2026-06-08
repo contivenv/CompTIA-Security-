@@ -1,0 +1,1 @@
+Uma avaliação estratégica sobre qual nível de risco residual é aceitável para uma organização.

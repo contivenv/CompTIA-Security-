@@ -1,0 +1,1 @@
+Processo que determina a probabilidade de ocorrência e o impacto dos riscos identificados usando o raciocínio lógico quando os dados numéricos não estão prontamente disponíveis.

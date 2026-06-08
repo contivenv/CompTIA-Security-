@@ -1,0 +1,1 @@
+Na recuperação de desastres, o tempo adicional ao RTO de sistemas individuais para realizar a reintegração e o teste de um sistema restaurado ou atualizado após um evento.

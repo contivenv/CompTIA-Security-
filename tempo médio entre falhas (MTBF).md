@@ -1,0 +1,1 @@
+métrica de um dispositivo ou componente que prevê o tempo esperado entre falhas.
