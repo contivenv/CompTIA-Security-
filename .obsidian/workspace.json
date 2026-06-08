@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
+                "file": "Termos/aceitação de risco.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.0 Explicar processos de gestão de riscos"
+              "title": "aceitação de risco"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
+                "file": "Termos/aceitação de risco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 15.0 Explicar processos de gestão de riscos"
+              "title": "Links inversos para aceitação de risco"
             }
           },
           {
@@ -194,34 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1 Processos e conceitos da gestão de riscos.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2 Conceitos de gerenciamento de fornecedores.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
-    "tempo médio de reparo (MTTR).md",
-    "tempo médio entre falhas (MTBF).md",
-    "objetivo do ponto de recuperação (RPO).md",
-    "Tempo de recuperação do trabalho (Work Recovery Time, WRT).md",
-    "objetivo do tempo de recuperação (RTO).md",
-    "tempo máximo tolerável de inatividade (MTD).md",
-    "função essencial da missão (MEF).md",
-    "análise de impacto nos negócios (BIA).md",
+    "Termos/tempo médio de reparo (MTTR).md",
+    "Termos/tempo médio entre falhas (MTBF).md",
+    "Termos/objetivo do ponto de recuperação (RPO).md",
+    "Termos/Tempo de recuperação do trabalho (Work Recovery Time, WRT).md",
+    "Termos/objetivo do tempo de recuperação (RTO).md",
+    "Termos/tempo máximo tolerável de inatividade (MTD).md",
+    "Termos/função essencial da missão (MEF).md",
+    "Termos/análise de impacto nos negócios (BIA).md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.3 Processos de gestão de risco.md",
-    "reporte de riscos.md",
-    "tolerância ao risco.md",
-    "apetite ao risco.md",
-    "responsável pelo risco.md",
-    "Indicadores-chave de risco (KRIs).md",
-    "matriz de risco do tipo heat map.md",
-    "registro de riscos.md",
-    "gestão de riscos corporativos (ERM).md",
-    "Impacto.md",
-    "Probabilidade.md",
-    "gerenciamento.md",
+    "Termos/reporte de riscos.md",
+    "Termos/tolerância ao risco.md",
+    "Termos/apetite ao risco.md",
+    "Termos/responsável pelo risco.md",
+    "Termos/Indicadores-chave de risco (KRIs).md",
+    "Termos/matriz de risco do tipo heat map.md",
+    "Termos/registro de riscos.md",
+    "Termos/gestão de riscos corporativos (ERM).md",
+    "Termos/Impacto.md",
+    "Termos/Probabilidade.md",
+    "Termos/gerenciamento.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
-    "risco residual.md",
-    "isenção de risco.md",
-    "aceitação de risco.md",
+    "Termos/risco residual.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
