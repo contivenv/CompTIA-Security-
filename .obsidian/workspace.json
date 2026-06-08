@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/aceitação de risco.md",
+                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aceitação de risco"
+              "title": "15.1.2 Estratégias de gestão de riscos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Termos/aceitação de risco.md",
+                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para aceitação de risco"
+              "title": "Links inversos para 15.1.2 Estratégias de gestão de riscos"
             }
           },
           {
@@ -194,9 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.1 Identificação e avaliação de riscos.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1 Processos e conceitos da gestão de riscos.md",
+    "Termos/aceitação de risco.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2 Conceitos de gerenciamento de fornecedores.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
@@ -219,9 +222,6 @@
     "Termos/gestão de riscos corporativos (ERM).md",
     "Termos/Impacto.md",
     "Termos/Probabilidade.md",
-    "Termos/gerenciamento.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
-    "Termos/risco residual.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
