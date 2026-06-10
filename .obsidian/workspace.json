@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3 Auditorias e avaliações.md",
+                "file": "Termos/Acordo de Confidencialidade (NDA, da sigla em inglês).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.3 Auditorias e avaliações"
+              "title": "Acordo de Confidencialidade (NDA, da sigla em inglês)"
             }
           }
         ]
@@ -194,24 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.3 Acordos legais.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3 Auditorias e avaliações.md",
-    "regras de engajamento.md",
-    "Questionários.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.3 Acordos legais.md",
+    "Termos/regras de engajamento.md",
+    "Termos/Questionários.md",
     "Declaração de Trabalho (SOW, da sigla em inglês) / Ordem de Serviço (WO, da sigla em inglês).md",
     "Declaração de Trabalho (SOW, da sigla em inglês) ",
-    "Acordo de Nível de Serviço (SLA, da sigla em inglês).md",
-    "Acordo Mestre de Serviços (MSA, da sigla em inglês).md",
-    "Acordo de Parceria Empresarial (BPA, da sigla em inglês).md",
-    "Memorando de Acordo (MOA, da sigla em inglês).md",
-    "Acordo de Confidencialidade (NDA, da sigla em inglês).md",
-    "Memorando de Entendimento (MOU, da sigla em inglês).md",
+    "Termos/Acordo de Nível de Serviço (SLA, da sigla em inglês).md",
+    "Termos/Acordo Mestre de Serviços (MSA, da sigla em inglês).md",
+    "Termos/Acordo de Parceria Empresarial (BPA, da sigla em inglês).md",
+    "Termos/Memorando de Acordo (MOA, da sigla em inglês).md",
+    "Termos/Acordo de Confidencialidade (NDA, da sigla em inglês).md",
+    "Termos/Memorando de Entendimento (MOU, da sigla em inglês).md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.2 Métodos de avaliação do fornecedor.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.1 Seleção de fornecedores.md",
-    "conflito de interesses.md",
-    "due diligence.md",
+    "Termos/conflito de interesses.md",
+    "Termos/due diligence.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.3 Processos de gestão de risco.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
