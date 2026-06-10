@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.3 Tipos de exercícios.md",
+                "file": "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.0 Introdução.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.3.3 Tipos de exercícios"
+              "title": "1.0 Introdução"
             }
           }
         ]
@@ -196,15 +196,22 @@
   },
   "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "PDF de cada capítulo do e-book/12.0 Explicar os conceitos de monitoramento e resposta a incidentes.pdf",
-    "PDF de cada capítulo do e-book/12.0 Explicar os conceitos de monitoramento e resposta a incidentes..pdf",
-    "PDF de cada capítulo do e-book/13.0 Analisar indicadores de atividades mal-intencionadas.pdf",
-    "PDF de cada capítulo do e-book/14.0 Resumir conceitos de governança de segurança.pdf",
-    "PDF de cada capítulo do e-book/15.0 Explicar processos de gestão de riscos.pdf",
-    "PDF de cada capítulo do e-book",
+    "Anexos/PDF de cada capítulo do e-book/9.0 Avaliar os recursos de segurança da rede.pdf",
+    "Anexos/PDF de cada capítulo do e-book/8.0 Vulnerabilidades de dispositivos e sistemas operacionais.pdf",
+    "Anexos/PDF de cada capítulo do e-book/7.0 Explicar os conceitos de resiliência e segurança do local.pdf",
+    "Anexos/PDF de cada capítulo do e-book/6.0 Arquitetura de rede em nuvem segura.pdf",
+    "Anexos/PDF de cada capítulo do e-book/5.0 Proteger a arquitetura de rede corporativa.pdf",
+    "Anexos/PDF de cada capítulo do e-book/4.0 Implementar o gerenciamento de identidade e acesso.pdf",
+    "Anexos/PDF de cada capítulo do e-book/3.0 Explicando as soluções de criptografia.pdf",
+    "Anexos/PDF de cada capítulo do e-book/2.0 Comparação de Tipos de Ameaças.pdf",
+    "Anexos/PDF de cada capítulo do e-book/15.0 Explicar processos de gestão de riscos.pdf",
+    "Anexos/PDF de cada capítulo do e-book/14.0 Resumir conceitos de governança de segurança.pdf",
+    "Anexos/PDF de cada capítulo do e-book/13.0 Analisar indicadores de atividades mal-intencionadas.pdf",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1 Conceitos de segurança.md",
+    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.3 Tipos de exercícios.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.4 Resumo.md",
     "Termos/Pentest defensivo.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.3 Tipos de exercícios.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.2 Pentesting.md",
     "Termos/Reconhecimento passivo.md",
     "Termos/Pentest integrado.md",
@@ -219,21 +226,14 @@
     "Termos/regras de engajamento.md",
     "Termos/Questionários.md",
     "Declaração de Trabalho (SOW, da sigla em inglês) / Ordem de Serviço (WO, da sigla em inglês).md",
-    "Declaração de Trabalho (SOW, da sigla em inglês) ",
     "Termos/Acordo de Nível de Serviço (SLA, da sigla em inglês).md",
     "Termos/Acordo Mestre de Serviços (MSA, da sigla em inglês).md",
     "Termos/Acordo de Parceria Empresarial (BPA, da sigla em inglês).md",
     "Termos/Memorando de Acordo (MOA, da sigla em inglês).md",
     "Termos/Memorando de Entendimento (MOU, da sigla em inglês).md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.2 Métodos de avaliação do fornecedor.md",
-    "Termos/conflito de interesses.md",
-    "Termos/due diligence.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos",
-    "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
-    "cross-site request forgery (falsificação de solicitação entre sites - XSRF ",
-    "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/logs de autenticação de segurança do linux.png"
   ]
