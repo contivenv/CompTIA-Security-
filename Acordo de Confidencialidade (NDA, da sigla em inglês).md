@@ -1,0 +1,1 @@
+Acordo que estipula que as entidades não compartilharão informações confidenciais, conhecimento ou materiais com terceiros não autorizados.

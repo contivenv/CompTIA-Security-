@@ -1,0 +1,1 @@
+Documento que define as expectativas para um acordo comercial específico.

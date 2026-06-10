@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
+                "file": "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3 Auditorias e avaliações.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.1.2 Estratégias de gestão de riscos"
+              "title": "15.3 Auditorias e avaliações"
             }
           }
         ]
@@ -196,32 +196,33 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.1 Identificação e avaliação de riscos.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.3 Acordos legais.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3 Auditorias e avaliações.md",
+    "regras de engajamento.md",
+    "Questionários.md",
+    "Declaração de Trabalho (SOW, da sigla em inglês) / Ordem de Serviço (WO, da sigla em inglês).md",
+    "Declaração de Trabalho (SOW, da sigla em inglês) ",
+    "Acordo de Nível de Serviço (SLA, da sigla em inglês).md",
+    "Acordo Mestre de Serviços (MSA, da sigla em inglês).md",
+    "Acordo de Parceria Empresarial (BPA, da sigla em inglês).md",
+    "Memorando de Acordo (MOA, da sigla em inglês).md",
+    "Acordo de Confidencialidade (NDA, da sigla em inglês).md",
+    "Memorando de Entendimento (MOU, da sigla em inglês).md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.2 Métodos de avaliação do fornecedor.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.1 Seleção de fornecedores.md",
+    "conflito de interesses.md",
+    "due diligence.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.3 Processos de gestão de risco.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.2 Estratégias de gestão de riscos.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.1 Identificação e avaliação de riscos.md",
+    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2 Conceitos de gerenciamento de fornecedores.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1 Processos e conceitos da gestão de riscos.md",
     "Termos/aceitação de risco.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2 Conceitos de gerenciamento de fornecedores.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.4 Análise de impacto nos negócios.md",
     "Termos/tempo médio de reparo (MTTR).md",
     "Termos/tempo médio entre falhas (MTBF).md",
     "Termos/objetivo do ponto de recuperação (RPO).md",
-    "Termos/Tempo de recuperação do trabalho (Work Recovery Time, WRT).md",
-    "Termos/objetivo do tempo de recuperação (RTO).md",
-    "Termos/tempo máximo tolerável de inatividade (MTD).md",
-    "Termos/função essencial da missão (MEF).md",
-    "Termos/análise de impacto nos negócios (BIA).md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1.3 Processos de gestão de risco.md",
-    "Termos/reporte de riscos.md",
-    "Termos/tolerância ao risco.md",
-    "Termos/apetite ao risco.md",
-    "Termos/responsável pelo risco.md",
-    "Termos/Indicadores-chave de risco (KRIs).md",
-    "Termos/matriz de risco do tipo heat map.md",
-    "Termos/registro de riscos.md",
-    "Termos/gestão de riscos corporativos (ERM).md",
-    "Termos/Impacto.md",
-    "Termos/Probabilidade.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos",
     "E-book CompTIA Security+/14.0 Resumir conceitos de governança de segurança",
     "Anexos/logs de autenticação de segurança do linux.png",
@@ -234,7 +235,6 @@
     "Erros em questões/Sem título",
     "E-book CompTIA Security+/13.0 Analisar indicadores de atividades mal-intencionadas",
     "Listener*",
-    "Listener",
-    "E-book CompTIA Security+/12.0 Explicar os conceitos de monitoramento e resposta a incidentes."
+    "Listener"
   ]
 }

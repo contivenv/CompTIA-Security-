@@ -1,0 +1,1 @@
+Documento legal que forma a base para que duas partes cooperem sem um contrato formal (um acordo de cooperação). MOAs são frequentemente usados por órgãos públicos.

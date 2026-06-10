@@ -1,0 +1,1 @@
+Um princípio legal de que um sujeito usou as práticas recomendadas ou cuidados razoáveis ao configurar e manter um sistema.

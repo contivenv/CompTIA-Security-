@@ -1,0 +1,1 @@
+Acordo que define os requisitos e as expectativas de serviço entre um consumidor e um provedor.

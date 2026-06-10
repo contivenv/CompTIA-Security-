@@ -1,0 +1,1 @@
+Quando um indivíduo ou organização tem investimentos ou obrigações que podem comprometer sua capacidade de agir de forma objetiva, imparcial ou no melhor interesse de outra parte.

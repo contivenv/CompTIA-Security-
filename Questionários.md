@@ -1,0 +1,1 @@
+Na gestão de fornecedores, trata-se de meios estruturados de obtenção de informações consistentes, possibilitando análises e comparações de riscos mais eficazes.

@@ -1,0 +1,1 @@
+Um contrato que estabelece precedência e diretrizes para quaisquer documentos comerciais executados entre duas partes.

@@ -1,0 +1,1 @@
+Uma definição de como um teste de penetração será executado e quais restrições estarão em vigor. Isso fornece diretrizes para consultar ao testador de penetração enquanto ele realiza seus testes, de forma que não seja preciso pedir constantemente permissão à gerência para fazer algo.

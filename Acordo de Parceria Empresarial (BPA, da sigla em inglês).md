@@ -1,0 +1,1 @@
+Acordo entre duas empresas para trabalhar em conjunto, como os acordos de parceria que grandes empresas de TI estabelecem com revendedores e provedores de soluções.

@@ -1,0 +1,1 @@
+Normalmente, um acordo preliminar ou exploratório para expressar a intenção de trabalhar em conjunto, que não é juridicamente vinculativo e não envolve a troca de dinheiro. Também pode definir funções e expectativas.
