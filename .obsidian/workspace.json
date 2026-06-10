@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.2 Classificações de dados.md",
+                "file": "Termos/Dados de segredo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.1.2 Classificações de dados"
+              "title": "Dados de segredo"
             }
           }
         ]
@@ -194,18 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd95b16797819a6a",
+  "active": "039a461f589ae8b5",
   "lastOpenFiles": [
-    "propriedade intelectual (IP).md",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.2 Classificações de dados.md",
-    "informações proprietárias.md",
+    "Termos/propriedade intelectual (IP).md",
+    "Termos/informações proprietárias.md",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.1 Tipos de dados.md",
-    "Dados não legíveis por humanos.md",
-    "Dados legíveis por humanos.md",
-    "dados financeiros.md",
-    "Dados jurídicos.md",
-    "Dados de segredo.md",
-    "Dados regulados.md",
+    "Termos/Dados não legíveis por humanos.md",
+    "Termos/Dados legíveis por humanos.md",
+    "Termos/dados financeiros.md",
+    "Termos/Dados jurídicos.md",
+    "Termos/Dados de segredo.md",
+    "Termos/Dados regulados.md",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1 Classificação e conformidade de dados.md",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.0 Resumir conceitos de proteção de dados e conformidade.md",
     "Anexos/PDF de cada capítulo do e-book/15.0 Explicar processos de gestão de riscos.pdf",
