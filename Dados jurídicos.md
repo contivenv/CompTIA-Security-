@@ -1,0 +1,1 @@
+Documentos e registros relacionados a assuntos jurídicos, como contratos, propriedade, casos em juízo e registros regulatórios.

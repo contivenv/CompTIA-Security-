@@ -1,0 +1,1 @@
+Informações que possuem requisitos de conformidade para armazenamento e manuseio definidos pela legislação nacional e estadual e/ou regulamentações do setor.

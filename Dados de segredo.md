@@ -1,0 +1,1 @@
+Propriedade intelectual que dá a uma empresa uma vantagem competitiva mas que não foi registrada com direitos autorais, marcas comerciais ou patentes.

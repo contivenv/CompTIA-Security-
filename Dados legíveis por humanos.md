@@ -1,0 +1,1 @@
+Informações armazenadas em um tipo de arquivo que humanos podem acessar e entender usando um software básico de visualização, como documentos, imagens, vídeo e áudio.

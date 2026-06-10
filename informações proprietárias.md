@@ -1,0 +1,1 @@
+Informações criadas por uma organização, normalmente sobre os produtos ou serviços que ela fabrica ou fornece.

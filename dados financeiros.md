@@ -1,0 +1,1 @@
+Dados mantidos sobre contas bancárias e de investimento, além de informações como folha de pagamento e declarações fiscais.

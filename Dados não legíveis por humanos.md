@@ -1,0 +1,1 @@
+Informações armazenadas em um arquivo não legível por humanos sem um processador especializado para decodificar a estrutura binária ou complexa.
