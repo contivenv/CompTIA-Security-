@@ -1,0 +1,1 @@
+Técnicas de teste de penetração que interagem diretamente com os sistemas-alvo.
