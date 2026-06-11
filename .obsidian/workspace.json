@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termos/Dados de segredo.md",
+                "file": "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.1 Segurança da informação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dados de segredo"
+              "title": "1.1.1 Segurança da informação"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 375.5
   },
   "right": {
     "id": "f99067273165fa13",
@@ -184,30 +184,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a461f589ae8b5",
+  "active": "fd95b16797819a6a",
   "lastOpenFiles": [
+    "Não repúdio.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.1 Segurança da informação.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1 Conceitos de segurança.md",
+    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.0 Introdução.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.1 Tipos de dados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1 Classificação e conformidade de dados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.0 Resumir conceitos de proteção de dados e conformidade.md",
+    "Termos/Dados de segredo.md",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.2 Classificações de dados.md",
     "Termos/propriedade intelectual (IP).md",
     "Termos/informações proprietárias.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.1 Tipos de dados.md",
     "Termos/Dados não legíveis por humanos.md",
     "Termos/Dados legíveis por humanos.md",
     "Termos/dados financeiros.md",
     "Termos/Dados jurídicos.md",
-    "Termos/Dados de segredo.md",
     "Termos/Dados regulados.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1 Classificação e conformidade de dados.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.0 Resumir conceitos de proteção de dados e conformidade.md",
     "Anexos/PDF de cada capítulo do e-book/15.0 Explicar processos de gestão de riscos.pdf",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
@@ -217,12 +221,10 @@
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.1 Seleção de fornecedores.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1 Processos e conceitos da gestão de riscos.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.0 Introdução.md",
     "Anexos/PDF de cada capítulo do e-book/9.0 Avaliar os recursos de segurança da rede.pdf",
     "Anexos/PDF de cada capítulo do e-book/8.0 Vulnerabilidades de dispositivos e sistemas operacionais.pdf",
     "Anexos/PDF de cada capítulo do e-book/7.0 Explicar os conceitos de resiliência e segurança do local.pdf",
     "Anexos/PDF de cada capítulo do e-book/6.0 Arquitetura de rede em nuvem segura.pdf",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1 Conceitos de segurança.md",
     "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.3 Tipos de exercícios.md",
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.4 Resumo.md",
@@ -230,8 +232,6 @@
     "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.2 Pentesting.md",
     "Termos/Reconhecimento passivo.md",
     "Termos/Pentest integrado.md",
-    "Termos/Pentest físico.md",
-    "Termos/Pentest ofensivo.md",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",

@@ -1,0 +1,1 @@
+Meta de segurança que visa garantir que o emissor de uma transmissão ou criador dos dados permaneça associado a esses dados e não possa negar o envio ou a criação desses dados.
