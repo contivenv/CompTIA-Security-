@@ -1,0 +1,1 @@
+Conjunto de entradas de controle de acesso (ACEs) que determina quais elementos (contas de usuário, endereços IP de host e similares) têm o acesso permitido ou negado e privilégios concedidos em relação ao objeto (somente leitura, leitura/gravação, etc.).
