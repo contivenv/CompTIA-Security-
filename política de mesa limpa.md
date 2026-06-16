@@ -1,0 +1,1 @@
+Política organizacional que exige que as áreas de trabalho dos funcionários estejam livres de informações potencialmente confidenciais; documentos confidenciais não devem ser deixados à vista de pessoas não autorizadas.

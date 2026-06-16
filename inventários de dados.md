@@ -1,0 +1,1 @@
+Lista de informações ou dados confidenciais armazenados ou processados por um sistema.

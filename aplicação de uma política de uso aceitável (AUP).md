@@ -1,0 +1,1 @@
+Política que rege o uso de equipamentos e serviços de Internet da empresa pelos funcionários. Os ISPs também podem aplicar AUPs aos seus clientes.

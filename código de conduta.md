@@ -1,0 +1,1 @@
+O comportamento profissional depende de padrões éticos básicos, como honestidade e equidade. Algumas profissões desenvolvem códigos de ética para abranger situações difíceis; algumas empresas também podem ter um código de ética para comunicar os valores que esperam que seus funcionários pratiquem.

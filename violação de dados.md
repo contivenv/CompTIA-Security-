@@ -1,0 +1,1 @@
+Quando dados confidenciais ou privados são lidos, copiados ou alterados sem autorização. Os eventos de violação de dados podem ter requisitos de notificação e relatório.

@@ -1,0 +1,1 @@
+No contexto de procedimentos de suporte, resposta a incidentes e relatórios de violações, o escalonamento é o processo de envolvimento de especialistas e funcionários seniores para auxiliar no gerenciamento de problemas.

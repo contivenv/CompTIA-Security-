@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dúvidas e revisão de conceitos/O que é um modelo discricionário nesse contexto.md",
+                "file": "E-book CompTIA Security+/Glossário.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é um modelo discricionário nesse contexto"
+              "title": "Glossário"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autenticação",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,42 +196,42 @@
   },
   "active": "fd95b16797819a6a",
   "lastOpenFiles": [
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.4 Controle de acesso.md",
-    "Dúvidas e revisão de conceitos/O que é um modelo discricionário nesse contexto.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.2.2 Tipos funcionais de controle de segurança.md",
-    "Listas de controle de acesso (ACL).md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1.1 Segurança da informação.md",
-    "Não repúdio.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.1 Conceitos de segurança.md",
-    "E-book CompTIA Security+/1.0 Síntese de conceitos fundamentais de segurança/1.0 Introdução.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.1 Tipos de dados.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1 Classificação e conformidade de dados.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.0 Resumir conceitos de proteção de dados e conformidade.md",
-    "Termos/Dados de segredo.md",
-    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.2 Classificações de dados.md",
-    "Termos/propriedade intelectual (IP).md",
-    "Termos/informações proprietárias.md",
-    "Termos/Dados não legíveis por humanos.md",
-    "Termos/Dados legíveis por humanos.md",
-    "Termos/dados financeiros.md",
-    "Termos/Dados jurídicos.md",
-    "Termos/Dados regulados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.3 Resumo.md",
+    "E-book CompTIA Security+/Glossário.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.2.4 Ciclo de vida da capacitação para a conscientização em segurança.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.2.3 Tópicos e técnicas de capacitação.md",
+    "Reconhecimento de comportamento.md",
+    "treinamento baseado em computador (CBT).md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.2.2 Treinamento baseado em usuários e funções.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.2.1 Políticas de conduta.md",
+    "política de mesa limpa.md",
+    "código de conduta.md",
+    "aplicação de uma política de uso aceitável (AUP).md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.2 Políticas de pessoal.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.9 Prevenção de perda de dados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.8 Proteção de dados.md",
+    "dados e criptografia.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.7 Monitoramento e relatórios.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.6 Conformidade.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/Sem título",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.5 Violações de privacidade e violações de dados.md",
+    "Health Insurance Portability and Accountability Act (HIPAA).md",
+    "encaminhadas.md",
+    "violação de dados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.4 Dados de privacidade.md",
+    "retenção de dados.md",
+    "inventários de dados.md",
+    "titulares dos dados.md",
+    "E-book CompTIA Security+/16.0 Classificação e conformidade de dados/16.1.3 Soberania de dados e considerações geográficas.md",
     "Anexos/PDF de cada capítulo do e-book/15.0 Explicar processos de gestão de riscos.pdf",
     "E-book CompTIA Security+/16.0 Classificação e conformidade de dados",
     "Anexos/CompTIA_Security_SY0-701_Exam_Objectives_V7_Portuguese.pdf",
     "Anexos/pt-br_security-plus-v7.pdf",
     "Anexos/security-plus-v7-study-outline.pdf",
     "Anexos/security-plus-v7-study-objectives.pdf",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.2.1 Seleção de fornecedores.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.0 Explicar processos de gestão de riscos.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.1 Processos e conceitos da gestão de riscos.md",
     "Anexos/PDF de cada capítulo do e-book/9.0 Avaliar os recursos de segurança da rede.pdf",
     "Anexos/PDF de cada capítulo do e-book/8.0 Vulnerabilidades de dispositivos e sistemas operacionais.pdf",
     "Anexos/PDF de cada capítulo do e-book/7.0 Explicar os conceitos de resiliência e segurança do local.pdf",
-    "Anexos/PDF de cada capítulo do e-book/6.0 Arquitetura de rede em nuvem segura.pdf",
-    "E-book CompTIA Security+/9.0 Avaliar os recursos de segurança da rede/9.1 Linhas de base de segurança da rede.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.3.3 Tipos de exercícios.md",
-    "E-book CompTIA Security+/15.0 Explicar processos de gestão de riscos/15.4 Resumo.md",
     "Anexos/logs de autenticação de segurança do linux.png",
     "Anexos/estágio do kill chain para a criação de um artefato malicioso.png",
     "Questionários e simulados/Cibersegurança Quiz 2 - Capítulo 12/estágio do kill chain para a criação de um artefato malicioso.png",

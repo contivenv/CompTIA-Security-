@@ -1,0 +1,1 @@
+Lei federal dos EUA que protege o armazenamento, leitura, modificação e transmissão de dados pessoais de saúde.

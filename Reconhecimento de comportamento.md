@@ -1,0 +1,1 @@
+Sistemas que detectam automaticamente usuários, hosts e serviços que se desviam do esperado, ou sistemas e treinamentos que incentivam a denúncia disso pelos funcionários.

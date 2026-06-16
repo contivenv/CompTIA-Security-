@@ -1,0 +1,1 @@
+Um indivíduo identificado por dados de privacidade.

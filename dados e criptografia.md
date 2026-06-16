@@ -1,0 +1,1 @@
+Aplicação de criptografia no âmbito da tabela, do campo ou do registro por meio de um sistema de gerenciamento de banco de dados, e não do sistema de arquivos.

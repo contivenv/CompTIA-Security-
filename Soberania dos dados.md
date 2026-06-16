@@ -1,0 +1,1 @@
+Em proteção de dados, o princípio de que países e estados podem impor requisitos individuais aos dados coletados ou armazenados dentro de sua jurisdição.

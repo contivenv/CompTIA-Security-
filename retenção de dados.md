@@ -1,0 +1,1 @@
+Processo que uma organização usa para manter a existência e o controle de determinados dados a fim de cumprir as políticas de negócios e/ou as leis e regulamentos aplicáveis.
